@@ -2,27 +2,33 @@ name: US market daily brief
 
 on:
   schedule:
-    # UTC 週一~週五 22:00 = 台灣 週二~週六 早上 06:00
-    - cron: '0 22 * * 1-5'
-  workflow_dispatch: {}   # 允許在 GitHub 網頁上手動觸發測試
+    # UTC 週日~週五 22:17 = 台灣週一~週六 06:17。
+    - cron: '17 22 * * 0-5'
+  workflow_dispatch: {}
 
 permissions:
-  contents: write         # 讓 workflow 能把學到的對應表 commit 回 repo
+  contents: write
+
+concurrency:
+  group: us-market-daily-brief
+  cancel-in-progress: false
 
 jobs:
   brief:
     runs-on: ubuntu-latest
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run daily brief
+      - name: Run professional market brief
         env:
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -33,7 +39,8 @@ jobs:
           GEMINI_LEARNED_FALLBACK_MODELS: ${{ vars.GEMINI_LEARNED_FALLBACK_MODELS }}
         run: python main.py
 
-      - name: Commit learned map and brief history
+      - name: Commit learned map and analysis history
+        if: ${{ always() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
