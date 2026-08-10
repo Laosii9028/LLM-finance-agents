@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "llm-finance-discord-trigger",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-10",
+  "vars": {
+    "GITHUB_OWNER": "Laosii9028",
+    "GITHUB_REPO": "LLM-finance-agents",
+    "GITHUB_WORKFLOW": "daily.yml",
+    "GITHUB_REF": "main"
+  }
+}
