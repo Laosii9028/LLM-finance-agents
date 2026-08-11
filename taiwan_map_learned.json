@@ -3,14 +3,15 @@
     "stocks": [
       "台積電 2330",
       "廣達 2382",
+      "技嘉 2376",
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達進行AI基礎設施擴張，連動台灣AI晶片代工與伺服器供應鏈",
+    "reason": "輝達為全球 AI 晶片龍頭，連動台灣 AI 伺服器代工與供應鏈夥伴。",
     "first_seen": "2026-08-05",
-    "seen_count": 9,
+    "seen_count": 10,
     "status": "candidate",
-    "last_seen": "2026-08-11"
+    "last_seen": "2026-08-12"
   },
   "TSM": {
     "stocks": [
@@ -18,11 +19,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR表現連動台積電現股走勢",
+    "reason": "台積電 ADR 表現強韌，為台灣主要晶圓代工與 AI 晶片供應核心。",
     "first_seen": "2026-08-05",
-    "seen_count": 8,
+    "seen_count": 9,
     "status": "candidate",
-    "last_seen": "2026-08-10"
+    "last_seen": "2026-08-12"
   },
   "MU": {
     "stocks": [
@@ -31,11 +32,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體因短缺與需求推升，連動台系記憶體廠報價與營運",
+    "reason": "美光記憶體合約與營收能見度討論，連動台灣記憶體族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 7,
+    "seen_count": 8,
     "status": "candidate",
-    "last_seen": "2026-08-11"
+    "last_seen": "2026-08-12"
   },
   "AAPL": {
     "stocks": [
@@ -44,11 +45,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果相關供應鏈受終端需求與庫存調整連動影響",
+    "reason": "受到蘋果 iPhone 雜音與降評影響，相關台灣蘋概股供應鏈連動。",
     "first_seen": "2026-08-05",
-    "seen_count": 4,
+    "seen_count": 5,
     "status": "candidate",
-    "last_seen": "2026-08-11"
+    "last_seen": "2026-08-12"
   },
   "ANET": {
     "stocks": [
@@ -95,5 +96,17 @@
     "seen_count": 2,
     "status": "candidate",
     "last_seen": "2026-08-11"
+  },
+  "TSLA": {
+    "stocks": [
+      "台達電 2308",
+      "和大 1536",
+      "貿聯-KY 3665"
+    ],
+    "reason": "特斯拉中國電動車銷售與股價變動，牽動台灣車用零組件與供應鏈。",
+    "first_seen": "2026-08-12",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-08-12"
   }
 }
