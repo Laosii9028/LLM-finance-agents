@@ -7,23 +7,24 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達為全球 AI 晶片龍頭，連動台灣 AI 伺服器代工與供應鏈夥伴。",
+    "reason": "NVIDIA股價強勢上漲，帶動台股AI晶片代工與伺服器供應鏈連動。",
     "first_seen": "2026-08-05",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-08-13"
   },
   "TSM": {
     "stocks": [
       "中砂 1560",
+      "創意 3443",
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電 ADR 表現強韌，為台灣主要晶圓代工與 AI 晶片供應核心。",
+    "reason": "台積電ADR收高，激勵台股現貨表現及相關先進封裝與矽智財概念股。",
     "first_seen": "2026-08-05",
-    "seen_count": 9,
+    "seen_count": 10,
     "status": "candidate",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-08-13"
   },
   "MU": {
     "stocks": [
@@ -32,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體合約與營收能見度討論，連動台灣記憶體族群。",
+    "reason": "美光(Micron)受惠記憶體短缺與強勁財報大漲，連動台股記憶體族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 8,
+    "seen_count": 9,
     "status": "candidate",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-08-13"
   },
   "AAPL": {
     "stocks": [
@@ -108,5 +109,18 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-08-12"
+  },
+  "SMCI": {
+    "stocks": [
+      "廣達 2382",
+      "技嘉 2376",
+      "緯創 3231",
+      "華通 2313"
+    ],
+    "reason": "美超微(Supermicro)發布720億美元龐大營運展望且股價飆漲，帶動台股AI伺服器供應鏈。",
+    "first_seen": "2026-08-13",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-08-13"
   }
 }
