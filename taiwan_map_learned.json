@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光(Micron)受惠記憶體短缺與強勁財報大漲，連動台股記憶體族群。",
+    "reason": "美光股價強漲顯示記憶體市況復甦，連動台股記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 9,
+    "seen_count": 10,
     "status": "candidate",
-    "last_seen": "2026-08-13"
+    "last_seen": "2026-08-14"
   },
   "AAPL": {
     "stocks": [
@@ -117,10 +117,21 @@
       "緯創 3231",
       "華通 2313"
     ],
-    "reason": "美超微(Supermicro)發布720億美元龐大營運展望且股價飆漲，帶動台股AI伺服器供應鏈。",
+    "reason": "美股Supermicro受AI伺服器強勁帶動大漲，連動台股AI伺服器代工廠",
     "first_seen": "2026-08-13",
+    "seen_count": 2,
+    "status": "candidate",
+    "last_seen": "2026-08-14"
+  },
+  "DELL": {
+    "stocks": [
+      "緯創 3231",
+      "英業達 2356"
+    ],
+    "reason": "戴爾受惠AI伺服器需求走高，激勵台股相關ODM供應鏈",
+    "first_seen": "2026-08-14",
     "seen_count": 1,
     "status": "candidate",
-    "last_seen": "2026-08-13"
+    "last_seen": "2026-08-14"
   }
 }
