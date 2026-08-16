@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA股價強勢上漲，帶動台股AI晶片代工與伺服器供應鏈連動。",
+    "reason": "NVIDIA為台廠AI晶片代工與伺服器主要合作夥伴",
     "first_seen": "2026-08-05",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-08-13"
+    "last_seen": "2026-08-17"
   },
   "TSM": {
     "stocks": [
@@ -20,11 +20,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台灣半導體與台積電ADR展現韌性，牽動台灣晶圓代工龍頭表現。",
+    "reason": "台積電ADR直接連動台股台積電現貨",
     "first_seen": "2026-08-05",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-08-15"
+    "last_seen": "2026-08-17"
   },
   "MU": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價強漲顯示記憶體市況復甦，連動台股記憶體族群",
+    "reason": "美光記憶體報價與需求直接牽動台廠記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-08-14"
+    "last_seen": "2026-08-17"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "受到蘋果 iPhone 雜音與降評影響，相關台灣蘋概股供應鏈連動。",
+    "reason": "蘋果為主要消費電子品牌，連動蘋概股代工與光學元件廠",
     "first_seen": "2026-08-05",
-    "seen_count": 5,
+    "seen_count": 6,
     "status": "candidate",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-08-17"
   },
   "ANET": {
     "stocks": [
@@ -66,24 +66,27 @@
   "AVGO": {
     "stocks": [
       "台積電 2330",
+      "日月光投控 3711",
       "智邦 2345"
     ],
-    "reason": "博通強勢帶動網通及半導體代工供應鏈",
+    "reason": "博通為網通晶片與ASIC大廠，連動相關台廠供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-08-07"
+    "last_seen": "2026-08-17"
   },
   "AMD": {
     "stocks": [
+      "台積電 2330",
       "欣興 3037",
+      "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD股價變動連動相關概念與載板供應商",
+    "reason": "AMD強漲帶動其晶片代工與高速傳輸介面供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-08-07"
+    "last_seen": "2026-08-17"
   },
   "AMAT": {
     "stocks": [
@@ -100,28 +103,31 @@
   },
   "TSLA": {
     "stocks": [
+      "健合興 3003",
       "台達電 2308",
       "和大 1536",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉中國電動車銷售與股價變動，牽動台灣車用零組件與供應鏈。",
+    "reason": "特斯拉為電動車龍頭，連動車用零組件與線束供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-08-17"
   },
   "SMCI": {
     "stocks": [
+      "優群 3217",
       "廣達 2382",
       "技嘉 2376",
       "緯創 3231",
-      "華通 2313"
+      "華通 2313",
+      "麗臺 2465"
     ],
-    "reason": "美股Supermicro受AI伺服器強勁帶動大漲，連動台股AI伺服器代工廠",
+    "reason": "美超微為AI伺服器大廠，連動台系伺服器組裝與零件供應商",
     "first_seen": "2026-08-13",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-08-14"
+    "last_seen": "2026-08-17"
   },
   "DELL": {
     "stocks": [
@@ -133,5 +139,17 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-08-14"
+  },
+  "ASML": {
+    "stocks": [
+      "公準 3178",
+      "家登 3680",
+      "帆宣 6196"
+    ],
+    "reason": "ASML為半導體微影設備大廠，連動台廠設備及代工供應鏈",
+    "first_seen": "2026-08-17",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-08-17"
   }
 }
