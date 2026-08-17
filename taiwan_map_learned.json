@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA為台廠AI晶片代工與伺服器主要合作夥伴",
+    "reason": "NVIDIA AI晶片需求強勁，帶動台灣晶圓代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 12,
+    "seen_count": 13,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-18"
   },
   "TSM": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體報價與需求直接牽動台廠記憶體族群",
+    "reason": "記憶體報價走揚與記憶體瓶頸議題，直接連動國內記憶體廠",
     "first_seen": "2026-08-05",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-18"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果為主要消費電子品牌，連動蘋概股代工與光學元件廠",
+    "reason": "蘋果供應鏈連動台灣相關代工與光學鏡頭廠",
     "first_seen": "2026-08-05",
-    "seen_count": 6,
+    "seen_count": 7,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-18"
   },
   "ANET": {
     "stocks": [
@@ -69,11 +69,11 @@
       "日月光投控 3711",
       "智邦 2345"
     ],
-    "reason": "博通為網通晶片與ASIC大廠，連動相關台廠供應鏈",
+    "reason": "博通網通晶片與封測需求帶動台灣網通及封測供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-18"
   },
   "AMD": {
     "stocks": [
@@ -82,11 +82,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD強漲帶動其晶片代工與高速傳輸介面供應鏈",
+    "reason": "AMD晶片出貨與高速傳輸需求帶動相關概念股",
     "first_seen": "2026-08-07",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-18"
   },
   "AMAT": {
     "stocks": [
@@ -103,16 +103,17 @@
   },
   "TSLA": {
     "stocks": [
+      "乙盛-KY 5243",
       "健合興 3003",
       "台達電 2308",
       "和大 1536",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉為電動車龍頭，連動車用零組件與線束供應鏈",
+    "reason": "特斯拉電動車與Robotaxi發展連動台灣車用零組件供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-18"
   },
   "SMCI": {
     "stocks": [
