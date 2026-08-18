@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA AI晶片需求強勁，帶動台灣晶圓代工與AI伺服器供應鏈",
+    "reason": "輝達股價拉回，影響台灣AI伺服器代工廠短線情緒",
     "first_seen": "2026-08-05",
-    "seen_count": 13,
+    "seen_count": 14,
     "status": "candidate",
-    "last_seen": "2026-08-18"
+    "last_seen": "2026-08-19"
   },
   "TSM": {
     "stocks": [
@@ -20,11 +20,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR直接連動台股台積電現貨",
+    "reason": "台積電ADR單日重挫，連動台股權值王台積電表現",
     "first_seen": "2026-08-05",
-    "seen_count": 12,
+    "seen_count": 13,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-19"
   },
   "MU": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "記憶體報價走揚與記憶體瓶頸議題，直接連動國內記憶體廠",
+    "reason": "美光股價重挫，牽動台股記憶體族群走勢",
     "first_seen": "2026-08-05",
-    "seen_count": 12,
+    "seen_count": 13,
     "status": "candidate",
-    "last_seen": "2026-08-18"
+    "last_seen": "2026-08-19"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果供應鏈連動台灣相關代工與光學鏡頭廠",
+    "reason": "蘋果股價相對強勢，帶動台灣蘋概股供應鏈連動",
     "first_seen": "2026-08-05",
-    "seen_count": 7,
+    "seen_count": 8,
     "status": "candidate",
-    "last_seen": "2026-08-18"
+    "last_seen": "2026-08-19"
   },
   "ANET": {
     "stocks": [
