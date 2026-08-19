@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達股價拉回，影響台灣AI伺服器代工廠短線情緒",
+    "reason": "輝達相關AI晶片與伺服器需求，牽動台灣主要AI概念股與代工廠",
     "first_seen": "2026-08-05",
-    "seen_count": 14,
+    "seen_count": 15,
     "status": "candidate",
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-20"
   },
   "TSM": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果股價相對強勢，帶動台灣蘋概股供應鏈連動",
+    "reason": "蘋果股價強勢且AI支出相對低，帶動台灣主要蘋概股供應鏈連動",
     "first_seen": "2026-08-05",
-    "seen_count": 8,
+    "seen_count": 9,
     "status": "candidate",
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-20"
   },
   "ANET": {
     "stocks": [
@@ -109,11 +109,11 @@
       "和大 1536",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉電動車與Robotaxi發展連動台灣車用零組件供應鏈",
+    "reason": "特斯拉股價強漲，連動相關台灣車用與充電樁零組件供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-08-18"
+    "last_seen": "2026-08-20"
   },
   "SMCI": {
     "stocks": [
