@@ -1,12 +1,12 @@
 {
   "name": "美股台股連動控制台",
-  "short_name": "美股早報",
-  "description": "檢視美股早報、審核台股連動表並一鍵觸發 GitHub Actions。",
+  "short_name": "市場控制台",
+  "description": "檢視專業美股早報、台股盤前分析、連動對應表並一鍵觸發 GitHub Actions。",
   "start_url": "dashboard.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#EBEEF2",
-  "theme_color": "#2E4B8B",
+  "background_color": "#F5F8FC",
+  "theme_color": "#2563EB",
   "icons": [
     {
       "src": "icons/icon.svg",
