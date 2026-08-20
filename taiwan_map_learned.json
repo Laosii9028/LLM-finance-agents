@@ -46,9 +46,9 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果股價強勢且AI支出相對低，帶動台灣主要蘋概股供應鏈連動",
+    "reason": "蘋果(AAPL)股價走強，有利概念股營運與市場信心",
     "first_seen": "2026-08-05",
-    "seen_count": 9,
+    "seen_count": 10,
     "status": "candidate",
     "last_seen": "2026-08-20"
   },
@@ -92,14 +92,15 @@
     "stocks": [
       "京鼎 3413",
       "台積電 2330",
+      "應用材料相關台廠",
       "應用材料相關設備供應鏈",
       "日揚 6208"
     ],
-    "reason": "應材受惠AI工具需求與設備支出，連動台積電及設備代工廠",
+    "reason": "應用材料(AMAT)公布創紀錄財季，帶動半導體設備供應鏈關注",
     "first_seen": "2026-08-10",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-08-11"
+    "last_seen": "2026-08-20"
   },
   "TSLA": {
     "stocks": [
@@ -109,9 +110,9 @@
       "和大 1536",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉股價強漲，連動相關台灣車用與充電樁零組件供應鏈",
+    "reason": "特斯拉(TSLA)股價強漲，帶動相關台系電動車供應鏈表現",
     "first_seen": "2026-08-12",
-    "seen_count": 4,
+    "seen_count": 5,
     "status": "candidate",
     "last_seen": "2026-08-20"
   },
@@ -152,5 +153,16 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-08-17"
+  },
+  "AMKR": {
+    "stocks": [
+      "京元電子 2449",
+      "日月光投控 3711"
+    ],
+    "reason": "艾克爾(AMKR)因短期展望保守而下跌，影響封測代工族群情緒",
+    "first_seen": "2026-08-20",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-08-20"
   }
 }
