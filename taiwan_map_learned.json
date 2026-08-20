@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達相關AI晶片與伺服器需求，牽動台灣主要AI概念股與代工廠",
+    "reason": "輝達概念股與AI伺服器供應鏈連動",
     "first_seen": "2026-08-05",
-    "seen_count": 15,
+    "seen_count": 16,
     "status": "candidate",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   "TSM": {
     "stocks": [
@@ -20,11 +20,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR單日重挫，連動台股權值王台積電表現",
+    "reason": "台積電ADR上漲，連動台股權值王台積電表現",
     "first_seen": "2026-08-05",
-    "seen_count": 13,
+    "seen_count": 14,
     "status": "candidate",
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-21"
   },
   "MU": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價重挫，牽動台股記憶體族群走勢",
+    "reason": "美光強漲帶動記憶體族群比價效應",
     "first_seen": "2026-08-05",
-    "seen_count": 13,
+    "seen_count": 14,
     "status": "candidate",
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-21"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果(AAPL)股價走強，有利概念股營運與市場信心",
+    "reason": "蘋果股價波動牽動蘋概股供應鏈表現",
     "first_seen": "2026-08-05",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   "ANET": {
     "stocks": [
@@ -92,15 +92,17 @@
     "stocks": [
       "京鼎 3413",
       "台積電 2330",
+      "弘塑 3131",
       "應用材料相關台廠",
       "應用材料相關設備供應鏈",
-      "日揚 6208"
+      "日揚 6208",
+      "萬潤 6187"
     ],
-    "reason": "應用材料(AMAT)公布創紀錄財季，帶動半導體設備供應鏈關注",
+    "reason": "應用材料展望牽動台灣半導體設備供應鏈",
     "first_seen": "2026-08-10",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   "TSLA": {
     "stocks": [
@@ -108,13 +110,14 @@
       "健合興 3003",
       "台達電 2308",
       "和大 1536",
+      "美琪瑪 4721",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉(TSLA)股價強漲，帶動相關台系電動車供應鏈表現",
+    "reason": "特斯拉股價波動連動電動車概念股",
     "first_seen": "2026-08-12",
-    "seen_count": 5,
+    "seen_count": 6,
     "status": "candidate",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   "SMCI": {
     "stocks": [
