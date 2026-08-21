@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達概念股與AI伺服器供應鏈連動",
+    "reason": "輝達AI晶片主要由台積電代工及台灣代工廠組裝",
     "first_seen": "2026-08-05",
-    "seen_count": 16,
+    "seen_count": 17,
     "status": "candidate",
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-22"
   },
   "TSM": {
     "stocks": [
@@ -20,11 +20,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR上漲，連動台股權值王台積電表現",
+    "reason": "台積電ADR代表其在美國掛牌之股價與連動表現",
     "first_seen": "2026-08-05",
-    "seen_count": 14,
+    "seen_count": 15,
     "status": "candidate",
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-22"
   },
   "MU": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光強漲帶動記憶體族群比價效應",
+    "reason": "美光記憶體動態牽動台灣DRAM與儲存供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 14,
+    "seen_count": 15,
     "status": "candidate",
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-22"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果股價波動牽動蘋概股供應鏈表現",
+    "reason": "蘋果供應鏈包含晶片代工、代號組裝及光學鏡頭",
     "first_seen": "2026-08-05",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-22"
   },
   "ANET": {
     "stocks": [
@@ -69,11 +69,11 @@
       "日月光投控 3711",
       "智邦 2345"
     ],
-    "reason": "博通網通晶片與封測需求帶動台灣網通及封測供應鏈",
+    "reason": "博通網通晶片與AI加速器相關供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-08-18"
+    "last_seen": "2026-08-22"
   },
   "AMD": {
     "stocks": [
@@ -96,13 +96,14 @@
       "應用材料相關台廠",
       "應用材料相關設備供應鏈",
       "日揚 6208",
+      "翔名 8091",
       "萬潤 6187"
     ],
-    "reason": "應用材料展望牽動台灣半導體設備供應鏈",
+    "reason": "應材為半導體設備大廠，國內相關設備與代工廠高度連動",
     "first_seen": "2026-08-10",
-    "seen_count": 4,
+    "seen_count": 5,
     "status": "candidate",
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-22"
   },
   "TSLA": {
     "stocks": [
@@ -113,11 +114,11 @@
       "美琪瑪 4721",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉股價波動連動電動車概念股",
+    "reason": "特斯拉概念股涵蓋車用線束及傳動系統零組件",
     "first_seen": "2026-08-12",
-    "seen_count": 6,
+    "seen_count": 7,
     "status": "candidate",
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-22"
   },
   "SMCI": {
     "stocks": [
