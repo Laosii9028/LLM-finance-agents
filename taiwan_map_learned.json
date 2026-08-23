@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片主要由台積電代工及台灣代工廠組裝",
+    "reason": "輝達相關AI晶片需求與供應鏈備受關注，牽動台灣AI伺服器與晶圓代工廠連動。",
     "first_seen": "2026-08-05",
-    "seen_count": 17,
+    "seen_count": 18,
     "status": "candidate",
-    "last_seen": "2026-08-22"
+    "last_seen": "2026-08-24"
   },
   "TSM": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體動態牽動台灣DRAM與儲存供應鏈",
+    "reason": "美光記憶體動態與市況評價影響台股記憶體族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 15,
+    "seen_count": 16,
     "status": "candidate",
-    "last_seen": "2026-08-22"
+    "last_seen": "2026-08-24"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果供應鏈包含晶片代工、代號組裝及光學鏡頭",
+    "reason": "蘋果股價與市場動向直接牽動主要蘋概股代工與零組件供應鏈。",
     "first_seen": "2026-08-05",
-    "seen_count": 12,
+    "seen_count": 13,
     "status": "candidate",
-    "last_seen": "2026-08-22"
+    "last_seen": "2026-08-24"
   },
   "ANET": {
     "stocks": [
@@ -114,11 +114,11 @@
       "美琪瑪 4721",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉概念股涵蓋車用線束及傳動系統零組件",
+    "reason": "特斯拉股價強漲與市值回升，帶動相關電動車供應鏈與零件廠連動表現。",
     "first_seen": "2026-08-12",
-    "seen_count": 7,
+    "seen_count": 8,
     "status": "candidate",
-    "last_seen": "2026-08-22"
+    "last_seen": "2026-08-24"
   },
   "SMCI": {
     "stocks": [
