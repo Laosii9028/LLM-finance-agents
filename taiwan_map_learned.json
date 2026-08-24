@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達相關AI晶片需求與供應鏈備受關注，牽動台灣AI伺服器與晶圓代工廠連動。",
+    "reason": "輝達股價下跌2.91%，牽動台灣主要AI伺服器代工廠連動",
     "first_seen": "2026-08-05",
-    "seen_count": 18,
+    "seen_count": 19,
     "status": "candidate",
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-08-25"
   },
   "TSM": {
     "stocks": [
@@ -20,11 +20,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR代表其在美國掛牌之股價與連動表現",
+    "reason": "台積電ADR收黑下跌2.11%，直接連動台股權值股台積電走勢",
     "first_seen": "2026-08-05",
-    "seen_count": 15,
+    "seen_count": 16,
     "status": "candidate",
-    "last_seen": "2026-08-22"
+    "last_seen": "2026-08-25"
   },
   "MU": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體動態與市況評價影響台股記憶體族群。",
+    "reason": "美光股價重挫5.83%，衝擊台股記憶體族群表現",
     "first_seen": "2026-08-05",
-    "seen_count": 16,
+    "seen_count": 17,
     "status": "candidate",
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-08-25"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果股價與市場動向直接牽動主要蘋概股代工與零組件供應鏈。",
+    "reason": "蘋果相關新聞與股價變動牽動台股主要蘋概股",
     "first_seen": "2026-08-05",
-    "seen_count": 13,
+    "seen_count": 14,
     "status": "candidate",
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-08-25"
   },
   "ANET": {
     "stocks": [
@@ -129,11 +129,11 @@
       "華通 2313",
       "麗臺 2465"
     ],
-    "reason": "美超微為AI伺服器大廠，連動台系伺服器組裝與零件供應商",
+    "reason": "美超微因員工遭起訴事件重挫5.56%，影響其相關台廠供應鏈及合作夥伴",
     "first_seen": "2026-08-13",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-08-25"
   },
   "DELL": {
     "stocks": [
