@@ -7,11 +7,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達股價下跌2.91%，牽動台灣主要AI伺服器代工廠連動",
+    "reason": "輝達AI晶片需求強勁，帶動台灣晶圓代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 19,
+    "seen_count": 20,
     "status": "candidate",
-    "last_seen": "2026-08-25"
+    "last_seen": "2026-08-26"
   },
   "TSM": {
     "stocks": [
@@ -33,11 +33,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價重挫5.83%，衝擊台股記憶體族群表現",
+    "reason": "美光記憶體動能延續，連動台灣記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 17,
+    "seen_count": 18,
     "status": "candidate",
-    "last_seen": "2026-08-25"
+    "last_seen": "2026-08-26"
   },
   "AAPL": {
     "stocks": [
@@ -46,11 +46,11 @@
       "玉晶光 3406",
       "鴻海 2317"
     ],
-    "reason": "蘋果相關新聞與股價變動牽動台股主要蘋概股",
+    "reason": "蘋果供應鏈連動台灣代工與光學鏡頭廠",
     "first_seen": "2026-08-05",
-    "seen_count": 14,
+    "seen_count": 15,
     "status": "candidate",
-    "last_seen": "2026-08-25"
+    "last_seen": "2026-08-26"
   },
   "ANET": {
     "stocks": [
@@ -82,11 +82,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD晶片出貨與高速傳輸需求帶動相關概念股",
+    "reason": "超微股價強勢上漲，相關概念股與代工夥伴備受關注",
     "first_seen": "2026-08-07",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-08-18"
+    "last_seen": "2026-08-26"
   },
   "AMAT": {
     "stocks": [
@@ -126,14 +126,15 @@
       "廣達 2382",
       "技嘉 2376",
       "緯創 3231",
+      "緯穎 6669",
       "華通 2313",
       "麗臺 2465"
     ],
-    "reason": "美超微因員工遭起訴事件重挫5.56%，影響其相關台廠供應鏈及合作夥伴",
+    "reason": "美超微股價大漲，帶動台灣AI伺服器與機殼板卡供應鏈",
     "first_seen": "2026-08-13",
-    "seen_count": 4,
+    "seen_count": 5,
     "status": "candidate",
-    "last_seen": "2026-08-25"
+    "last_seen": "2026-08-26"
   },
   "DELL": {
     "stocks": [
@@ -168,5 +169,16 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-08-20"
+  },
+  "QCOM": {
+    "stocks": [
+      "日月光投控 3711",
+      "聯發科 2454"
+    ],
+    "reason": "高通看好AI商機，連動台灣IC設計與封測夥伴",
+    "first_seen": "2026-08-26",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-08-26"
   }
 }
