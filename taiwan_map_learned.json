@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA股價強漲且市場聚焦AI財報，帶動台股AI晶片代工、封測與載板供應鏈連動走強",
+    "reason": "NVIDIA財報與股價波動直接牽動台灣AI晶片代工與伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 22,
+    "seen_count": 23,
     "status": "candidate",
-    "last_seen": "2026-08-28"
+    "last_seen": "2026-08-29"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR收黑下跌2.11%，直接連動台股權值股台積電走勢",
+    "reason": "台積電ADR股價波動直接反映其在台股之本尊表現",
     "first_seen": "2026-08-05",
-    "seen_count": 16,
+    "seen_count": 17,
     "status": "candidate",
-    "last_seen": "2026-08-25"
+    "last_seen": "2026-08-29"
   },
   "MU": {
     "stocks": [
@@ -35,11 +35,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體動能延續，連動台灣記憶體族群",
+    "reason": "美光記憶體動態直接影響台灣記憶體製造與模組廠報價及走勢",
     "first_seen": "2026-08-05",
-    "seen_count": 18,
+    "seen_count": 19,
     "status": "candidate",
-    "last_seen": "2026-08-26"
+    "last_seen": "2026-08-29"
   },
   "AAPL": {
     "stocks": [
@@ -54,11 +54,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果供應鏈組裝與代工連動",
+    "reason": "蘋果消費品牌表現與股價變動牽動台灣主要蘋概股代工與光學元件廠",
     "first_seen": "2026-08-05",
-    "seen_count": 16,
+    "seen_count": 17,
     "status": "candidate",
-    "last_seen": "2026-08-27"
+    "last_seen": "2026-08-29"
   },
   "ANET": {
     "stocks": [
@@ -85,16 +85,17 @@
   },
   "AMD": {
     "stocks": [
+      "健策 3653",
       "台積電 2330",
       "欣興 3037",
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "超微股價強勢上漲，相關概念股與代工夥伴備受關注",
+    "reason": "AMD晶片出貨與股價變化連動台灣主要PC與伺服器代工及散熱、載板供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 4,
+    "seen_count": 5,
     "status": "candidate",
-    "last_seen": "2026-08-26"
+    "last_seen": "2026-08-29"
   },
   "AMAT": {
     "stocks": [
@@ -140,16 +141,17 @@
       "緯創 3231",
       "緯穎 6669",
       "臺",
+      "華擎 3515",
       "華泰 2329",
       "華通 2313",
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美股Supermicro相關題材發酵，連動台股伺服器代工與相關零組件供應鏈",
+    "reason": "美超微股價與營運新聞直接連動其台灣伺服器代工與合作夥伴",
     "first_seen": "2026-08-13",
-    "seen_count": 7,
+    "seen_count": 8,
     "status": "candidate",
-    "last_seen": "2026-08-28"
+    "last_seen": "2026-08-29"
   },
   "DELL": {
     "stocks": [
