@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA財報與股價波動直接牽動台灣AI晶片代工與伺服器供應鏈",
+    "reason": "輝達為AI晶片龍頭，其單日重挫牽動台股AI概念股與代工廠表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 23,
+    "seen_count": 24,
     "status": "candidate",
-    "last_seen": "2026-08-29"
+    "last_seen": "2026-08-31"
   },
   "TSM": {
     "stocks": [
@@ -54,11 +54,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果消費品牌表現與股價變動牽動台灣主要蘋概股代工與光學元件廠",
+    "reason": "蘋果股價走強，直接激勵台灣蘋概股供應鏈表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 17,
+    "seen_count": 18,
     "status": "candidate",
-    "last_seen": "2026-08-29"
+    "last_seen": "2026-08-31"
   },
   "ANET": {
     "stocks": [
@@ -197,5 +197,29 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-08-26"
+  },
+  "LRCX": {
+    "stocks": [
+      "台積電 2330",
+      "弘塑 3131",
+      "辛耘 3583"
+    ],
+    "reason": "Lam Research 為全球半導體設備大廠，其股價波動連動台積電及相關台灣半導體設備供應鏈。",
+    "first_seen": "2026-08-31",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-08-31"
+  },
+  "AMZN": {
+    "stocks": [
+      "廣達 2382",
+      "緯創 3231",
+      "金像電 2368"
+    ],
+    "reason": "亞馬遜股價強勢上漲，帶動其雲端及伺服器供應鏈之台股表現。",
+    "first_seen": "2026-08-31",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-08-31"
   }
 }
