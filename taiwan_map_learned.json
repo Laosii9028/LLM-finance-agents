@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達為AI晶片龍頭，其單日重挫牽動台股AI概念股與代工廠表現。",
+    "reason": "輝達AI晶片強勢帶動台灣AI伺服器代工廠供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 24,
+    "seen_count": 25,
     "status": "candidate",
-    "last_seen": "2026-08-31"
+    "last_seen": "2026-09-01"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR股價波動直接反映其在台股之本尊表現",
+    "reason": "台積電ADR美股交易表現與台灣晶圓代工龍頭直接連動",
     "first_seen": "2026-08-05",
-    "seen_count": 17,
+    "seen_count": 18,
     "status": "candidate",
-    "last_seen": "2026-08-29"
+    "last_seen": "2026-09-01"
   },
   "MU": {
     "stocks": [
@@ -35,11 +35,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體動態直接影響台灣記憶體製造與模組廠報價及走勢",
+    "reason": "美光股價走強與記憶體族群市況改善連動台廠記憶體股",
     "first_seen": "2026-08-05",
-    "seen_count": 19,
+    "seen_count": 20,
     "status": "candidate",
-    "last_seen": "2026-08-29"
+    "last_seen": "2026-09-01"
   },
   "AAPL": {
     "stocks": [
@@ -116,6 +116,7 @@
   },
   "TSLA": {
     "stocks": [
+      "etan 2317",
       "乙盛-KY 5243",
       "健合興 3003",
       "台達電 2308",
@@ -123,11 +124,11 @@
       "美琪瑪 4721",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉股價強漲與市值回升，帶動相關電動車供應鏈與零件廠連動表現。",
+    "reason": "特斯拉股價強漲帶動台灣相關電動車零組件供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 8,
+    "seen_count": 9,
     "status": "candidate",
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-09-01"
   },
   "SMCI": {
     "stocks": [
