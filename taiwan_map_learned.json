@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR美股交易表現與台灣晶圓代工龍頭直接連動",
+    "reason": "台積電 ADR 收跌 0.32%，連動台股權值股台積電表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 18,
+    "seen_count": 19,
     "status": "candidate",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-02"
   },
   "MU": {
     "stocks": [
