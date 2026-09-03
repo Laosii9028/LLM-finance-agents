@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片強勢帶動台灣AI伺服器代工廠供應鏈",
+    "reason": "輝達推動全球AI基礎設施與晶片需求，連動台灣晶代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 25,
+    "seen_count": 26,
     "status": "candidate",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-03"
   },
   "TSM": {
     "stocks": [
@@ -35,11 +35,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價走強與記憶體族群市況改善連動台廠記憶體股",
+    "reason": "美光記憶體動能連動台灣記憶體製造與模組廠",
     "first_seen": "2026-08-05",
-    "seen_count": 20,
+    "seen_count": 21,
     "status": "candidate",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-03"
   },
   "AAPL": {
     "stocks": [
@@ -77,11 +77,11 @@
       "日月光投控 3711",
       "智邦 2345"
     ],
-    "reason": "博通股價強勢反映網通與AI晶片需求，帶動台灣相關網通晶片與代工夥伴",
+    "reason": "博通財報與AI晶片業務連動台灣先進封測與晶圓代工夥伴",
     "first_seen": "2026-08-07",
-    "seen_count": 5,
+    "seen_count": 6,
     "status": "candidate",
-    "last_seen": "2026-08-28"
+    "last_seen": "2026-09-03"
   },
   "AMD": {
     "stocks": [
@@ -91,11 +91,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD晶片出貨與股價變化連動台灣主要PC與伺服器代工及散熱、載板供應鏈",
+    "reason": "AMD晶片需求與供應鏈連動台灣代工與載板廠",
     "first_seen": "2026-08-07",
-    "seen_count": 5,
+    "seen_count": 6,
     "status": "candidate",
-    "last_seen": "2026-08-29"
+    "last_seen": "2026-09-03"
   },
   "AMAT": {
     "stocks": [
@@ -148,11 +148,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美超微股價與營運新聞直接連動其台灣伺服器代工與合作夥伴",
+    "reason": "美超微伺服器出貨與AI題材連動台灣代工廠",
     "first_seen": "2026-08-13",
-    "seen_count": 8,
+    "seen_count": 9,
     "status": "candidate",
-    "last_seen": "2026-08-29"
+    "last_seen": "2026-09-03"
   },
   "DELL": {
     "stocks": [
