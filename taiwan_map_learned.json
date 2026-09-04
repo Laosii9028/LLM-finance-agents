@@ -73,15 +73,16 @@
   },
   "AVGO": {
     "stocks": [
+      "京元電子 2449",
       "台積電 2330",
       "日月光投控 3711",
       "智邦 2345"
     ],
-    "reason": "博通財報與AI晶片業務連動台灣先進封測與晶圓代工夥伴",
+    "reason": "博通財報與股價波動牽動台系封測等相關供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 6,
+    "seen_count": 7,
     "status": "candidate",
-    "last_seen": "2026-09-03"
+    "last_seen": "2026-09-04"
   },
   "AMD": {
     "stocks": [
@@ -148,11 +149,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美超微伺服器出貨與AI題材連動台灣代工廠",
+    "reason": "美超微股價下滑與供應鏈雜音連動台灣AI伺服器代工廠",
     "first_seen": "2026-08-13",
-    "seen_count": 9,
+    "seen_count": 10,
     "status": "candidate",
-    "last_seen": "2026-09-03"
+    "last_seen": "2026-09-04"
   },
   "DELL": {
     "stocks": [
