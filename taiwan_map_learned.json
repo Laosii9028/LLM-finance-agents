@@ -35,11 +35,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體動能連動台灣記憶體製造與模組廠",
+    "reason": "美光股價上漲與記憶體產業需求相關，連動台灣記憶體供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 21,
+    "seen_count": 22,
     "status": "candidate",
-    "last_seen": "2026-09-03"
+    "last_seen": "2026-09-05"
   },
   "AAPL": {
     "stocks": [
@@ -54,11 +54,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果股價走強，直接激勵台灣蘋概股供應鏈表現。",
+    "reason": "蘋果晶片與組裝業務連動台灣主要代工廠與零組件供應商",
     "first_seen": "2026-08-05",
-    "seen_count": 18,
+    "seen_count": 19,
     "status": "candidate",
-    "last_seen": "2026-08-31"
+    "last_seen": "2026-09-05"
   },
   "ANET": {
     "stocks": [
@@ -78,11 +78,11 @@
       "日月光投控 3711",
       "智邦 2345"
     ],
-    "reason": "博通財報與股價波動牽動台系封測等相關供應鏈",
+    "reason": "博通提及AI需求強勁，晶片與基板供應鏈受惠",
     "first_seen": "2026-08-07",
-    "seen_count": 7,
+    "seen_count": 8,
     "status": "candidate",
-    "last_seen": "2026-09-04"
+    "last_seen": "2026-09-05"
   },
   "AMD": {
     "stocks": [
