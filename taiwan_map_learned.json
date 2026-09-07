@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達推動全球AI基礎設施與晶片需求，連動台灣晶代工與AI伺服器供應鏈",
+    "reason": "NVIDIA 相關 AI 晶片與伺服器供應鏈連動台廠組裝廠。",
     "first_seen": "2026-08-05",
-    "seen_count": 26,
+    "seen_count": 27,
     "status": "candidate",
-    "last_seen": "2026-09-03"
+    "last_seen": "2026-09-07"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電 ADR 收跌 0.32%，連動台股權值股台積電表現。",
+    "reason": "台積電 ADR 表現強勢，連動台股權值核心台積電。",
     "first_seen": "2026-08-05",
-    "seen_count": 19,
+    "seen_count": 20,
     "status": "candidate",
-    "last_seen": "2026-09-02"
+    "last_seen": "2026-09-07"
   },
   "MU": {
     "stocks": [
@@ -35,11 +35,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價上漲與記憶體產業需求相關，連動台灣記憶體供應鏈",
+    "reason": "美光(Micron)股價強漲與 NAND/DRAM 價格週期向上，連動台股記憶體族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 22,
+    "seen_count": 23,
     "status": "candidate",
-    "last_seen": "2026-09-05"
+    "last_seen": "2026-09-07"
   },
   "AAPL": {
     "stocks": [
@@ -86,17 +86,18 @@
   },
   "AMD": {
     "stocks": [
+      "世芯-KY 3661",
       "健策 3653",
       "台積電 2330",
       "欣興 3037",
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD晶片需求與供應鏈連動台灣代工與載板廠",
+    "reason": "AMD 股價單日強漲，連動相關概念股與載板供應鏈。",
     "first_seen": "2026-08-07",
-    "seen_count": 6,
+    "seen_count": 7,
     "status": "candidate",
-    "last_seen": "2026-09-03"
+    "last_seen": "2026-09-07"
   },
   "AMAT": {
     "stocks": [
