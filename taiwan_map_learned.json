@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光(Micron)股價強漲且記憶體族群動能強勁，連動台灣記憶體製造與模組廠。",
+    "reason": "美光記憶體動態連動台股記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 24,
+    "seen_count": 25,
     "status": "candidate",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-09"
   },
   "AAPL": {
     "stocks": [
@@ -106,16 +106,17 @@
       "台積電 2330",
       "弘塑 3131",
       "應用材料相關台廠",
+      "應用材料相關台股供應鏈",
       "應用材料相關設備供應鏈",
       "日揚 6208",
       "翔名 8091",
       "萬潤 6187"
     ],
-    "reason": "半導體設備需求與大廠財報表現正面，帶動台灣半導體設備與備品供應鏈。",
+    "reason": "應用材料受惠AI需求強勁，相關半導體設備台廠連動",
     "first_seen": "2026-08-10",
-    "seen_count": 6,
+    "seen_count": 7,
     "status": "candidate",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-09"
   },
   "TSLA": {
     "stocks": [
@@ -172,13 +173,14 @@
     "stocks": [
       "公準 3178",
       "家登 3680",
-      "帆宣 6196"
+      "帆宣 6196",
+      "艾斯摩爾相關台股供應鏈"
     ],
-    "reason": "ASML為半導體微影設備大廠，連動台廠設備及代工供應鏈",
+    "reason": "ASML維持買進評等，光刻機相關台廠供應鏈受惠",
     "first_seen": "2026-08-17",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-08-17"
+    "last_seen": "2026-09-09"
   },
   "AMKR": {
     "stocks": [
@@ -225,5 +227,16 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-08-31"
+  },
+  "INTC": {
+    "stocks": [
+      "台積電 2330",
+      "日月光投控 3711"
+    ],
+    "reason": "Intel調漲CPU價格，相關代工與封測供應鏈受惠",
+    "first_seen": "2026-09-09",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-09-09"
   }
 }
