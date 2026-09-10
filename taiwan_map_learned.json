@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 相關 AI 晶片需求強勁，帶動台灣晶圓代工與 AI 伺服器供應鏈連動。",
+    "reason": "微軟推動有用收益測試NVIDIA的AI經濟學，相關AI伺服器與晶片代工廠受關注",
     "first_seen": "2026-08-05",
-    "seen_count": 28,
+    "seen_count": 29,
     "status": "candidate",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-10"
   },
   "TSM": {
     "stocks": [
@@ -90,15 +90,16 @@
       "世芯-KY 3661",
       "健策 3653",
       "台積電 2330",
+      "日月光投控 3711",
       "欣興 3037",
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD 股價單日強漲，連動相關概念股與載板供應鏈。",
+    "reason": "AMD上調AI晶片市場預測並走高，帶動晶圓代工與封測等台系供應鏈連動",
     "first_seen": "2026-08-07",
-    "seen_count": 7,
+    "seen_count": 8,
     "status": "candidate",
-    "last_seen": "2026-09-07"
+    "last_seen": "2026-09-10"
   },
   "AMAT": {
     "stocks": [
@@ -128,11 +129,11 @@
       "美琪瑪 4721",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉股價強漲帶動台灣相關電動車零組件供應鏈",
+    "reason": "特斯拉Cybercab發展與中國市場動態牽動台灣相關電動車零組件供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 9,
+    "seen_count": 10,
     "status": "candidate",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-10"
   },
   "SMCI": {
     "stocks": [
