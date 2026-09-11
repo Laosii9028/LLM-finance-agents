@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體動態連動台股記憶體族群",
+    "reason": "美光股價下跌連動台股記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 25,
+    "seen_count": 26,
     "status": "candidate",
-    "last_seen": "2026-09-09"
+    "last_seen": "2026-09-11"
   },
   "AAPL": {
     "stocks": [
@@ -55,11 +55,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果股價走弱，影響台灣蘋概股短線表現。",
+    "reason": "蘋果新品發表與股價波動帶動台灣供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 20,
+    "seen_count": 21,
     "status": "candidate",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-11"
   },
   "ANET": {
     "stocks": [
