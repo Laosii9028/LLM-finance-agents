@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價下跌連動台股記憶體族群",
+    "reason": "美光記憶體產業與定價前景受關注，連動台廠記憶體與模組廠",
     "first_seen": "2026-08-05",
-    "seen_count": 26,
+    "seen_count": 27,
     "status": "candidate",
-    "last_seen": "2026-09-11"
+    "last_seen": "2026-09-12"
   },
   "AAPL": {
     "stocks": [
@@ -129,11 +129,11 @@
       "美琪瑪 4721",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉Cybercab發展與中國市場動態牽動台灣相關電動車零組件供應鏈",
+    "reason": "特斯拉電動卡車與運輸企圖心受看好，利多相關台灣車用與充電零組件供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-09-10"
+    "last_seen": "2026-09-12"
   },
   "SMCI": {
     "stocks": [
@@ -239,5 +239,17 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-09-09"
+  },
+  "KLAC": {
+    "stocks": [
+      "台積電 2330",
+      "弘塑 3131",
+      "萬潤 6187"
+    ],
+    "reason": "科磊展望強勁，帶動半導體設備與台積電相關供應鏈動能",
+    "first_seen": "2026-09-12",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-09-12"
   }
 }
