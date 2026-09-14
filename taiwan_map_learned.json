@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "微軟推動有用收益測試NVIDIA的AI經濟學，相關AI伺服器與晶片代工廠受關注",
+    "reason": "輝達AI晶片與生態系持續驅動台股主要代工與晶圓代工廠營運成長。",
     "first_seen": "2026-08-05",
-    "seen_count": 29,
+    "seen_count": 30,
     "status": "candidate",
-    "last_seen": "2026-09-10"
+    "last_seen": "2026-09-14"
   },
   "TSM": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體產業與定價前景受關注，連動台廠記憶體與模組廠",
+    "reason": "美光記憶體動態與產業定價策略連動台灣記憶體族群表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 27,
+    "seen_count": 28,
     "status": "candidate",
-    "last_seen": "2026-09-12"
+    "last_seen": "2026-09-14"
   },
   "AAPL": {
     "stocks": [
@@ -153,11 +153,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美超微股價下滑與供應鏈雜音連動台灣AI伺服器代工廠",
+    "reason": "Super Micro Computer 訂單強勁且財測高升，帶動台灣伺服器代工與相關供應鏈連動走強。",
     "first_seen": "2026-08-13",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-09-04"
+    "last_seen": "2026-09-14"
   },
   "DELL": {
     "stocks": [
