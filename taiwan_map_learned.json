@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片與生態系持續驅動台股主要代工與晶圓代工廠營運成長。",
+    "reason": "輝達AI晶片拉貨與伺服器供應鏈連動台廠",
     "first_seen": "2026-08-05",
-    "seen_count": 30,
+    "seen_count": 31,
     "status": "candidate",
-    "last_seen": "2026-09-14"
+    "last_seen": "2026-09-15"
   },
   "TSM": {
     "stocks": [
@@ -79,11 +79,11 @@
       "日月光投控 3711",
       "智邦 2345"
     ],
-    "reason": "博通提及AI需求強勁，晶片與基板供應鏈受惠",
+    "reason": "博通AI晶片與網通晶片相關供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 8,
+    "seen_count": 9,
     "status": "candidate",
-    "last_seen": "2026-09-05"
+    "last_seen": "2026-09-15"
   },
   "AMD": {
     "stocks": [
@@ -105,6 +105,7 @@
     "stocks": [
       "京鼎 3413",
       "台積電 2330",
+      "均華 6640",
       "弘塑 3131",
       "應用材料相關台廠",
       "應用材料相關台股供應鏈",
@@ -113,11 +114,11 @@
       "翔名 8091",
       "萬潤 6187"
     ],
-    "reason": "應用材料受惠AI需求強勁，相關半導體設備台廠連動",
+    "reason": "應用材料設備下跌牽動半導體設備廠",
     "first_seen": "2026-08-10",
-    "seen_count": 7,
+    "seen_count": 8,
     "status": "candidate",
-    "last_seen": "2026-09-09"
+    "last_seen": "2026-09-15"
   },
   "TSLA": {
     "stocks": [
@@ -153,11 +154,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "Super Micro Computer 訂單強勁且財測高升，帶動台灣伺服器代工與相關供應鏈連動走強。",
+    "reason": "美超微伺服器波動連動台系AI伺服器代工廠",
     "first_seen": "2026-08-13",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-09-14"
+    "last_seen": "2026-09-15"
   },
   "DELL": {
     "stocks": [
@@ -207,15 +208,16 @@
   },
   "LRCX": {
     "stocks": [
+      "上品 4770",
       "台積電 2330",
       "弘塑 3131",
       "辛耘 3583"
     ],
-    "reason": "Lam Research 為全球半導體設備大廠，其股價波動連動台積電及相關台灣半導體設備供應鏈。",
+    "reason": "科林研發設備需求與半導體供應鏈連動",
     "first_seen": "2026-08-31",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-08-31"
+    "last_seen": "2026-09-15"
   },
   "AMZN": {
     "stocks": [
@@ -251,5 +253,16 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-09-12"
+  },
+  "WDC": {
+    "stocks": [
+      "威剛 3260",
+      "群聯 8299"
+    ],
+    "reason": "威騰電子股價下跌反映儲存與快閃記憶體市況",
+    "first_seen": "2026-09-15",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-09-15"
   }
 }
