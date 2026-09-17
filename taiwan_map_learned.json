@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片拉貨與伺服器供應鏈連動台廠",
+    "reason": "NVIDIA AI晶片需求強勁且相關高層動態備受關注，連動台灣代工與晶圓代工供應鏈。",
     "first_seen": "2026-08-05",
-    "seen_count": 31,
+    "seen_count": 32,
     "status": "candidate",
-    "last_seen": "2026-09-15"
+    "last_seen": "2026-09-17"
   },
   "TSM": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體動態與產業定價策略連動台灣記憶體族群表現。",
+    "reason": "美國記憶體製造晶片相關談話與美光股價走勢，連動台灣記憶體族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 28,
+    "seen_count": 29,
     "status": "candidate",
-    "last_seen": "2026-09-14"
+    "last_seen": "2026-09-17"
   },
   "AAPL": {
     "stocks": [
