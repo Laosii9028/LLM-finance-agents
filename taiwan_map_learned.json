@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美國記憶體製造晶片相關談話與美光股價走勢，連動台灣記憶體族群。",
+    "reason": "美光(Micron)股價上漲且記憶體價格飆升，有利台股記憶體與模組廠",
     "first_seen": "2026-08-05",
-    "seen_count": 29,
+    "seen_count": 30,
     "status": "candidate",
-    "last_seen": "2026-09-17"
+    "last_seen": "2026-09-18"
   },
   "AAPL": {
     "stocks": [
@@ -156,11 +156,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美超微伺服器波動連動台系AI伺服器代工廠",
+    "reason": "美股超微電腦(SMCI)與伺服器相關個股大漲，連動台股AI伺服器代工廠",
     "first_seen": "2026-08-13",
-    "seen_count": 12,
+    "seen_count": 13,
     "status": "candidate",
-    "last_seen": "2026-09-15"
+    "last_seen": "2026-09-18"
   },
   "DELL": {
     "stocks": [
