@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI伺服器與晶片需求強勁，帶動台灣相關代工與晶圓代動供應鏈。",
+    "reason": "輝達AI晶片需求強勁，帶動台積電代工及台灣伺服器代工廠連動表現",
     "first_seen": "2026-08-05",
-    "seen_count": 34,
+    "seen_count": 35,
     "status": "candidate",
-    "last_seen": "2026-09-21"
+    "last_seen": "2026-09-23"
   },
   "TSM": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光受惠於供應吃緊與股價利多，連動台灣記憶體供應鏈。",
+    "reason": "美光財報與記憶體產業展望看好，帶動台灣記憶體族群連動",
     "first_seen": "2026-08-05",
-    "seen_count": 33,
+    "seen_count": 34,
     "status": "candidate",
-    "last_seen": "2026-09-22"
+    "last_seen": "2026-09-23"
   },
   "AAPL": {
     "stocks": [
@@ -56,11 +56,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果新機與相關供應鏈備貨進度牽動台股蘋概股表現。",
+    "reason": "蘋果新品與晶片策略調整，直接影響台灣主要組裝代工與光學鏡頭供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 22,
+    "seen_count": 23,
     "status": "candidate",
-    "last_seen": "2026-09-21"
+    "last_seen": "2026-09-23"
   },
   "ANET": {
     "stocks": [
@@ -97,11 +97,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD短線動能強勁，相關供應鏈廠商業績受到市場關注。",
+    "reason": "AMD AI與處理器需求增長，受惠台積電先進製程與台灣相關供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 9,
+    "seen_count": 10,
     "status": "candidate",
-    "last_seen": "2026-09-21"
+    "last_seen": "2026-09-23"
   },
   "AMAT": {
     "stocks": [
