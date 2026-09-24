@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光財報與記憶體產業展望看好，帶動台灣記憶體族群連動",
+    "reason": "美光記憶體需求強勁並受分析師看好，連動台灣記憶體供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 34,
+    "seen_count": 35,
     "status": "candidate",
-    "last_seen": "2026-09-23"
+    "last_seen": "2026-09-24"
   },
   "AAPL": {
     "stocks": [
@@ -118,11 +118,11 @@
       "翔名 8091",
       "萬潤 6187"
     ],
-    "reason": "應用材料等半導體設備廠受市場關注，連動台股設備供應鏈",
+    "reason": "應材擴大印度佈局及獲得分析師調升評等，帶動半導體設備廠後市",
     "first_seen": "2026-08-10",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-09-19"
+    "last_seen": "2026-09-24"
   },
   "TSLA": {
     "stocks": [
@@ -273,13 +273,14 @@
   "STX": {
     "stocks": [
       "廣明 6188",
+      "廣達 2382",
       "緯創 3231",
       "英業達 2356"
     ],
-    "reason": "希捷受惠AI驅動硬碟(HDD)需求，連動台股相關硬碟與伺服器代工供應鏈",
+    "reason": "AI儲存需求推升希 Seagate 表現，連動台灣 AI 伺服器與硬體代工廠",
     "first_seen": "2026-09-16",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-09-16"
+    "last_seen": "2026-09-24"
   }
 }
