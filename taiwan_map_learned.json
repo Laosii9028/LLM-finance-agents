@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR上漲，直接連動台股台積電及相關IP/封測供應鏈。",
+    "reason": "先進製程晶片需求加速成長，連動台積電營運展望。",
     "first_seen": "2026-08-05",
-    "seen_count": 21,
+    "seen_count": 22,
     "status": "candidate",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-25"
   },
   "MU": {
     "stocks": [
