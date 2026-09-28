@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片需求強勁，帶動台積電代工及台灣伺服器代工廠連動表現",
+    "reason": "NVIDIA 晶片需求強勁，帶動台灣晶圓代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 35,
+    "seen_count": 36,
     "status": "candidate",
-    "last_seen": "2026-09-23"
+    "last_seen": "2026-09-28"
   },
   "TSM": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價波動與記憶體族群連動",
+    "reason": "美光(Micron)股價與HBM/記憶體需求熱絡，連動台系記憶體廠",
     "first_seen": "2026-08-05",
-    "seen_count": 36,
+    "seen_count": 37,
     "status": "candidate",
-    "last_seen": "2026-09-26"
+    "last_seen": "2026-09-28"
   },
   "AAPL": {
     "stocks": [
@@ -56,11 +56,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果新品與晶片策略調整，直接影響台灣主要組裝代工與光學鏡頭供應鏈",
+    "reason": "Apple 股價穩健，直接連動台灣代工、晶片與光學鏡頭供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 23,
+    "seen_count": 24,
     "status": "candidate",
-    "last_seen": "2026-09-23"
+    "last_seen": "2026-09-28"
   },
   "ANET": {
     "stocks": [
@@ -81,15 +81,16 @@
       "智邦 2345",
       "華星光 4979"
     ],
-    "reason": "博通AI晶片與網通需求受到市場關注，連動台股網通與晶圓代工夥伴",
+    "reason": "Broadcom 網通與AI晶片需求，連動台灣先進製程與封測代工",
     "first_seen": "2026-08-07",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-09-16"
+    "last_seen": "2026-09-28"
   },
   "AMD": {
     "stocks": [
       "世芯-KY 3661",
+      "京元電子 2449",
       "健策 3653",
       "台積電 2330",
       "日月光投控 3711",
@@ -97,11 +98,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD AI與處理器需求增長，受惠台積電先進製程與台灣相關供應鏈",
+    "reason": "AMD 創高與短線動能強勁，受惠台積電先進製程與相關供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 10,
+    "seen_count": 11,
     "status": "candidate",
-    "last_seen": "2026-09-23"
+    "last_seen": "2026-09-28"
   },
   "AMAT": {
     "stocks": [
@@ -131,14 +132,15 @@
       "健合興 3003",
       "台達電 2308",
       "和大 1536",
+      "康普 4739",
       "美琪瑪 4721",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉電動卡車與運輸企圖心受看好，利多相關台灣車用與充電零組件供應鏈",
+    "reason": "Tesla 股價拉回但電動車長線供應鏈不變，連動台系車用零組件與電池原料廠",
     "first_seen": "2026-08-12",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-09-12"
+    "last_seen": "2026-09-28"
   },
   "SMCI": {
     "stocks": [
