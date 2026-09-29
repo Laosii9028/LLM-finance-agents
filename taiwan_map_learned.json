@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "先進製程晶片需求加速成長，連動台積電營運展望。",
+    "reason": "台積電ADR收漲，連動台股權值王台積電表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 22,
+    "seen_count": 23,
     "status": "candidate",
-    "last_seen": "2026-09-25"
+    "last_seen": "2026-09-29"
   },
   "MU": {
     "stocks": [
@@ -160,11 +160,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美股AI伺服器族群走高，連動台股伺服器代工與組裝廠",
+    "reason": "美股Super Micro AI伺服器拉回，連動台股相關AI伺服器代工廠。",
     "first_seen": "2026-08-13",
-    "seen_count": 14,
+    "seen_count": 15,
     "status": "candidate",
-    "last_seen": "2026-09-19"
+    "last_seen": "2026-09-29"
   },
   "DELL": {
     "stocks": [
