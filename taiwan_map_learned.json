@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR收漲，連動台股權值王台積電表現。",
+    "reason": "新聞提及台積電強勁基本面與ADR表現，直接連動台積電現貨。",
     "first_seen": "2026-08-05",
-    "seen_count": 23,
+    "seen_count": 24,
     "status": "candidate",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
   },
   "MU": {
     "stocks": [
@@ -109,6 +109,7 @@
       "京鼎 3413",
       "台積電 2330",
       "均華 6640",
+      "均豪 5443",
       "帆宣 6196",
       "弘塑 3131",
       "應用材料相關台廠",
@@ -119,11 +120,11 @@
       "翔名 8091",
       "萬潤 6187"
     ],
-    "reason": "應材擴大印度佈局及獲得分析師調升評等，帶動半導體設備廠後市",
+    "reason": "應用材料(AMAT)目標價調整與股價開高，連動台股設備供應鏈。",
     "first_seen": "2026-08-10",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-09-24"
+    "last_seen": "2026-09-30"
   },
   "TSLA": {
     "stocks": [
@@ -284,5 +285,25 @@
     "seen_count": 2,
     "status": "candidate",
     "last_seen": "2026-09-24"
+  },
+  "GLW": {
+    "stocks": [
+      "光纖纜線相關概念股"
+    ],
+    "reason": "康寧(Corning)因Verizon光纖與AI推動而大漲，連動台股光纖通訊族群。",
+    "first_seen": "2026-09-30",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-09-30"
+  },
+  "UMC": {
+    "stocks": [
+      "聯電 2303"
+    ],
+    "reason": "聯電營收動能與晶片產業樂觀情緒推動股價上漲。",
+    "first_seen": "2026-09-30",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-09-30"
   }
 }
