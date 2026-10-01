@@ -56,11 +56,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "Apple 股價穩健，直接連動台灣代工、晶片與光學鏡頭供應鏈",
+    "reason": "蘋果公司相關新聞與出貨表現直接牽動台灣蘋概股供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 24,
+    "seen_count": 25,
     "status": "candidate",
-    "last_seen": "2026-09-28"
+    "last_seen": "2026-10-01"
   },
   "ANET": {
     "stocks": [
@@ -207,24 +207,25 @@
       "日月光投控 3711",
       "聯發科 2454"
     ],
-    "reason": "高通看好AI商機，連動台灣IC設計與封測夥伴",
+    "reason": "高通為手機晶片與通訊大廠，牽動台灣IC設計與封測供應鏈",
     "first_seen": "2026-08-26",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-08-26"
+    "last_seen": "2026-10-01"
   },
   "LRCX": {
     "stocks": [
       "上品 4770",
+      "京鼎 3413",
       "台積電 2330",
       "弘塑 3131",
       "辛耘 3583"
     ],
-    "reason": "科林研發設備需求與半導體供應鏈連動",
+    "reason": "科林研發(Lam Research)為全球半導體設備大廠，與台積電及台灣半導體設備供應鏈高度連動",
     "first_seen": "2026-08-31",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-09-15"
+    "last_seen": "2026-10-01"
   },
   "AMZN": {
     "stocks": [
@@ -305,5 +306,27 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-09-30"
+  },
+  "MCHP": {
+    "stocks": [
+      "中美晶 5483",
+      "聯電 2303"
+    ],
+    "reason": "微芯科技為知名半導體與微控制器廠商，相關晶片代工與供應鏈與台灣晶圓代工廠連動",
+    "first_seen": "2026-10-01",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-10-01"
+  },
+  "FCX": {
+    "stocks": [
+      "第一銅 2009",
+      "華新 1605"
+    ],
+    "reason": "銅價受AI資料中心需求攀升，直接連動台灣銅價與電線電纜類股",
+    "first_seen": "2026-10-01",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-10-01"
   }
 }
