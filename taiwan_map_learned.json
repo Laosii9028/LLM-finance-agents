@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 晶片需求強勁，帶動台灣晶圓代工與AI伺服器供應鏈",
+    "reason": "輝達AI晶片與伺服器需求帶動台灣晶圓代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 36,
+    "seen_count": 37,
     "status": "candidate",
-    "last_seen": "2026-09-28"
+    "last_seen": "2026-10-02"
   },
   "TSM": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光(Micron)股價與HBM/記憶體需求熱絡，連動台系記憶體廠",
+    "reason": "美光記憶體股價強勢連動台灣記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 37,
+    "seen_count": 38,
     "status": "candidate",
-    "last_seen": "2026-09-28"
+    "last_seen": "2026-10-02"
   },
   "AAPL": {
     "stocks": [
@@ -161,11 +161,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美股Super Micro AI伺服器拉回，連動台股相關AI伺服器代工廠。",
+    "reason": "美超微伺服器出貨動能連動台灣AI伺服器代工廠",
     "first_seen": "2026-08-13",
-    "seen_count": 15,
+    "seen_count": 16,
     "status": "candidate",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-10-02"
   },
   "DELL": {
     "stocks": [
@@ -328,5 +328,17 @@
     "seen_count": 1,
     "status": "candidate",
     "last_seen": "2026-10-01"
+  },
+  "ARM": {
+    "stocks": [
+      "世芯-KY 3661",
+      "創意 3443",
+      "聯發科 2454"
+    ],
+    "reason": "ARM架構發展與AI晶片設計連動台灣IC設計與IP族群",
+    "first_seen": "2026-10-02",
+    "seen_count": 1,
+    "status": "candidate",
+    "last_seen": "2026-10-02"
   }
 }
