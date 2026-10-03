@@ -38,9 +38,9 @@
     ],
     "reason": "美光記憶體股價強勢連動台灣記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 38,
+    "seen_count": 39,
     "status": "candidate",
-    "last_seen": "2026-10-02"
+    "last_seen": "2026-10-03"
   },
   "AAPL": {
     "stocks": [
@@ -93,6 +93,7 @@
       "京元電子 2449",
       "健策 3653",
       "台積電 2330",
+      "廣達 2382",
       "日月光投控 3711",
       "欣興 3037",
       "祥碩 5269",
@@ -100,9 +101,9 @@
     ],
     "reason": "AMD 創高與短線動能強勁，受惠台積電先進製程與相關供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-09-28"
+    "last_seen": "2026-10-03"
   },
   "AMAT": {
     "stocks": [
@@ -219,13 +220,14 @@
       "京鼎 3413",
       "台積電 2330",
       "弘塑 3131",
+      "萬潤 6187",
       "辛耘 3583"
     ],
     "reason": "科林研發(Lam Research)為全球半導體設備大廠，與台積電及台灣半導體設備供應鏈高度連動",
     "first_seen": "2026-08-31",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-10-01"
+    "last_seen": "2026-10-03"
   },
   "AMZN": {
     "stocks": [
