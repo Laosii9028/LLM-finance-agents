@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片與伺服器需求帶動台灣晶圓代工與AI伺服器供應鏈",
+    "reason": "輝達AI晶片與伺服器需求強勁，連動台灣晶圓代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 37,
+    "seen_count": 38,
     "status": "candidate",
-    "last_seen": "2026-10-02"
+    "last_seen": "2026-10-05"
   },
   "TSM": {
     "stocks": [
@@ -56,11 +56,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果公司相關新聞與出貨表現直接牽動台灣蘋概股供應鏈",
+    "reason": "蘋果相關產品與晶片需求，直接牽動台灣代工、鏡頭及半導體夥伴",
     "first_seen": "2026-08-05",
-    "seen_count": 25,
+    "seen_count": 26,
     "status": "candidate",
-    "last_seen": "2026-10-01"
+    "last_seen": "2026-10-05"
   },
   "ANET": {
     "stocks": [
@@ -99,11 +99,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD 創高與短線動能強勁，受惠台積電先進製程與相關供應鏈",
+    "reason": "超微晶片業務成長，帶動台積電代工及相關載板與組裝供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 12,
+    "seen_count": 13,
     "status": "candidate",
-    "last_seen": "2026-10-03"
+    "last_seen": "2026-10-05"
   },
   "AMAT": {
     "stocks": [
@@ -231,16 +231,17 @@
   },
   "AMZN": {
     "stocks": [
+      "川湖 2059",
       "廣達 2382",
       "技嘉 2376",
       "緯創 3231",
       "金像電 2368"
     ],
-    "reason": "亞馬遜雲端與資料中心需求擴增，帶動台灣伺服器代工廠連動表現。",
+    "reason": "亞馬遜AWS資料中心與AI基礎設施擴建，受惠於台灣伺服器與滑軌供應商",
     "first_seen": "2026-08-31",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-09-21"
+    "last_seen": "2026-10-05"
   },
   "INTC": {
     "stocks": [
@@ -335,12 +336,13 @@
     "stocks": [
       "世芯-KY 3661",
       "創意 3443",
+      "台積電 2330",
       "聯發科 2454"
     ],
-    "reason": "ARM架構發展與AI晶片設計連動台灣IC設計與IP族群",
+    "reason": "安謀架構設計與擴展，連動台灣IP授權與晶圓代工夥伴",
     "first_seen": "2026-10-02",
-    "seen_count": 1,
+    "seen_count": 2,
     "status": "candidate",
-    "last_seen": "2026-10-02"
+    "last_seen": "2026-10-05"
   }
 }
