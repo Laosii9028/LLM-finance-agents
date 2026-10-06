@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片與伺服器需求強勁，連動台灣晶圓代工與AI伺服器供應鏈",
+    "reason": "輝達股價上漲且AI需求強勁，連動代工與晶圓代動能",
     "first_seen": "2026-08-05",
-    "seen_count": 38,
+    "seen_count": 39,
     "status": "candidate",
-    "last_seen": "2026-10-05"
+    "last_seen": "2026-10-06"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "新聞提及台積電強勁基本面與ADR表現，直接連動台積電現貨。",
+    "reason": "台積電ADR上漲，直接連動台股現貨表現",
     "first_seen": "2026-08-05",
-    "seen_count": 24,
+    "seen_count": 25,
     "status": "candidate",
-    "last_seen": "2026-09-30"
+    "last_seen": "2026-10-06"
   },
   "MU": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體股價強勢連動台灣記憶體族群",
+    "reason": "美光記憶體超級周期與AI需求看好，連動台系記憶體廠",
     "first_seen": "2026-08-05",
-    "seen_count": 39,
+    "seen_count": 40,
     "status": "candidate",
-    "last_seen": "2026-10-03"
+    "last_seen": "2026-10-06"
   },
   "AAPL": {
     "stocks": [
@@ -81,11 +81,11 @@
       "智邦 2345",
       "華星光 4979"
     ],
-    "reason": "Broadcom 網通與AI晶片需求，連動台灣先進製程與封測代工",
+    "reason": "博通股價強於族群，連動網通與封測供應鏈",
     "first_seen": "2026-08-07",
-    "seen_count": 11,
+    "seen_count": 12,
     "status": "candidate",
-    "last_seen": "2026-09-28"
+    "last_seen": "2026-10-06"
   },
   "AMD": {
     "stocks": [
@@ -237,11 +237,11 @@
       "緯創 3231",
       "金像電 2368"
     ],
-    "reason": "亞馬遜AWS資料中心與AI基礎設施擴建，受惠於台灣伺服器與滑軌供應商",
+    "reason": "亞馬遜AWS雲端與AI成長強勁，連動伺服器代工廠",
     "first_seen": "2026-08-31",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-10-05"
+    "last_seen": "2026-10-06"
   },
   "INTC": {
     "stocks": [
