@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達股價上漲且AI需求強勁，連動代工與晶圓代動能",
+    "reason": "輝達AI晶片強勁需求連動晶圓代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 39,
+    "seen_count": 40,
     "status": "candidate",
-    "last_seen": "2026-10-06"
+    "last_seen": "2026-10-07"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR上漲，直接連動台股現貨表現",
+    "reason": "台積電ADR直接對應台股台積電表現",
     "first_seen": "2026-08-05",
-    "seen_count": 25,
+    "seen_count": 26,
     "status": "candidate",
-    "last_seen": "2026-10-06"
+    "last_seen": "2026-10-07"
   },
   "MU": {
     "stocks": [
@@ -56,11 +56,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果相關產品與晶片需求，直接牽動台灣代工、鏡頭及半導體夥伴",
+    "reason": "蘋果手機與晶片主要供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 26,
+    "seen_count": 27,
     "status": "candidate",
-    "last_seen": "2026-10-05"
+    "last_seen": "2026-10-07"
   },
   "ANET": {
     "stocks": [
