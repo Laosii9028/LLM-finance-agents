@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達AI晶片強勁需求連動晶圓代工與AI伺服器供應鏈",
+    "reason": "NVIDIA為主要AI晶片設計大廠，連動台積電代工與台灣AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 40,
+    "seen_count": 41,
     "status": "candidate",
-    "last_seen": "2026-10-07"
+    "last_seen": "2026-10-08"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR直接對應台股台積電表現",
+    "reason": "台積電ADR與台股現股直接連動",
     "first_seen": "2026-08-05",
-    "seen_count": 26,
+    "seen_count": 27,
     "status": "candidate",
-    "last_seen": "2026-10-07"
+    "last_seen": "2026-10-08"
   },
   "MU": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光記憶體超級周期與AI需求看好，連動台系記憶體廠",
+    "reason": "美光強漲連動台灣記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 40,
+    "seen_count": 41,
     "status": "candidate",
-    "last_seen": "2026-10-06"
+    "last_seen": "2026-10-08"
   },
   "AAPL": {
     "stocks": [
@@ -56,11 +56,11 @@
       "鴻",
       "鴻海 2317"
     ],
-    "reason": "蘋果手機與晶片主要供應鏈",
+    "reason": "蘋果主要供應鏈涵蓋組裝、鏡頭與晶圓代工",
     "first_seen": "2026-08-05",
-    "seen_count": 27,
+    "seen_count": 28,
     "status": "candidate",
-    "last_seen": "2026-10-07"
+    "last_seen": "2026-10-08"
   },
   "ANET": {
     "stocks": [
