@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR直接連動台股台積電現貨表現。",
+    "reason": "台積電ADR與台股現股具高度連動與價差 arbitrage 關係",
     "first_seen": "2026-08-05",
-    "seen_count": 31,
+    "seen_count": 32,
     "status": "candidate",
-    "last_seen": "2026-10-13"
+    "last_seen": "2026-10-14"
   },
   "MU": {
     "stocks": [
