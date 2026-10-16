@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為主要AI晶片設計大廠，連動台灣晶圆代工與AI伺服器供應鏈",
+    "reason": "NVIDIA為全球AI晶片龍頭，連動台灣台積電代工及鴻海、廣達等AI伺服器供應鏈。",
     "first_seen": "2026-08-05",
-    "seen_count": 46,
+    "seen_count": 47,
     "status": "candidate",
-    "last_seen": "2026-10-15"
+    "last_seen": "2026-10-16"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR走勢直接連動台股權值股台積電",
+    "reason": "TSM為台積電ADR，直接對應台股台積電。",
     "first_seen": "2026-08-05",
-    "seen_count": 33,
+    "seen_count": 34,
     "status": "candidate",
-    "last_seen": "2026-10-15"
+    "last_seen": "2026-10-16"
   },
   "MU": {
     "stocks": [
@@ -57,11 +57,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果為主要消費電子品牌，連動台灣組裝代工與零組件供應鏈",
+    "reason": "Apple為全球消費電子巨頭，連動組裝廠鴻海、鏡頭供應商大立光及晶圓代工台積電。",
     "first_seen": "2026-08-05",
-    "seen_count": 33,
+    "seen_count": 34,
     "status": "candidate",
-    "last_seen": "2026-10-15"
+    "last_seen": "2026-10-16"
   },
   "ANET": {
     "stocks": [
