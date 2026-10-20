@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為全球 AI 晶片龍頭，牽動台灣晶圆代工與 AI 伺服器供應鏈",
+    "reason": "NVIDIA 為全球 AI 晶片領導廠商，台積電負責代工先進製程與 CoWoS，緯創與廣達為主要 AI 伺服器代工夥伴。",
     "first_seen": "2026-08-05",
-    "seen_count": 49,
+    "seen_count": 50,
     "status": "candidate",
-    "last_seen": "2026-10-19"
+    "last_seen": "2026-10-20"
   },
   "TSM": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光為記憶體大廠，其股價波動直接影響台灣記憶體族群。",
+    "reason": "Micron 為全球記憶體大廠，其價格走勢與DRAM市況直接連動台灣記憶體製造與模組廠。",
     "first_seen": "2026-08-05",
-    "seen_count": 42,
+    "seen_count": 43,
     "status": "candidate",
-    "last_seen": "2026-10-13"
+    "last_seen": "2026-10-20"
   },
   "AAPL": {
     "stocks": [
@@ -57,11 +57,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "Apple 供應鏈涵蓋組裝、光學鏡頭及晶片代工",
+    "reason": "Apple 為全球消費電子巨頭，鴻海為主要組裝代工廠，台積電獨家代工處理器，大立光供應鏡頭。",
     "first_seen": "2026-08-05",
-    "seen_count": 36,
+    "seen_count": 37,
     "status": "candidate",
-    "last_seen": "2026-10-19"
+    "last_seen": "2026-10-20"
   },
   "ANET": {
     "stocks": [
@@ -82,11 +82,11 @@
       "智邦 2345",
       "華星光 4979"
     ],
-    "reason": "博通股價強於族群，連動網通與封測供應鏈",
+    "reason": "Broadcom 為網通與 ASIC 晶片大廠，高度依賴台積電先進製程與日月光先進封裝。",
     "first_seen": "2026-08-07",
-    "seen_count": 12,
+    "seen_count": 13,
     "status": "candidate",
-    "last_seen": "2026-10-06"
+    "last_seen": "2026-10-20"
   },
   "AMD": {
     "stocks": [
@@ -100,11 +100,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "超微晶片業務成長，帶動台積電代工及相關載板與組裝供應鏈",
+    "reason": "AMD 為高效能運算與 GPU 大廠，台積電提供晶圆代工，京元電子提供測試服務。",
     "first_seen": "2026-08-07",
-    "seen_count": 13,
+    "seen_count": 14,
     "status": "candidate",
-    "last_seen": "2026-10-05"
+    "last_seen": "2026-10-20"
   },
   "AMAT": {
     "stocks": [
@@ -140,11 +140,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "Tesla 電動車供應鏈包含車用線束、傳動元件及電源零組件",
+    "reason": "Tesla 為電動車龍頭，貿聯-KY與健合興供應線束及端子，和大供應傳動齒輪軸。",
     "first_seen": "2026-08-12",
-    "seen_count": 17,
+    "seen_count": 18,
     "status": "candidate",
-    "last_seen": "2026-10-19"
+    "last_seen": "2026-10-20"
   },
   "SMCI": {
     "stocks": [
@@ -239,11 +239,11 @@
       "緯創 3231",
       "金像電 2368"
     ],
-    "reason": "亞馬遜AWS雲端與AI成長強勁，連動伺服器代工廠",
+    "reason": "Amazon AWS 為全球雲端服務龍頭，其伺服器與資料中心訂單帶動台灣代工及PCB供應鏈。",
     "first_seen": "2026-08-31",
-    "seen_count": 4,
+    "seen_count": 5,
     "status": "candidate",
-    "last_seen": "2026-10-06"
+    "last_seen": "2026-10-20"
   },
   "INTC": {
     "stocks": [
