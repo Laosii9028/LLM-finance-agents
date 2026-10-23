@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電 ADR 與台股本股具高度直接連動關係。",
+    "reason": "台積電ADR為台積電之美國挂牌憑證，兩者股價高度連動。",
     "first_seen": "2026-08-05",
-    "seen_count": 37,
+    "seen_count": 38,
     "status": "candidate",
-    "last_seen": "2026-10-22"
+    "last_seen": "2026-10-23"
   },
   "MU": {
     "stocks": [
