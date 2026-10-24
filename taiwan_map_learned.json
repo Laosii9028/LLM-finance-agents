@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為全球 AI 晶片領導廠商，帶動台灣晶圓代工與 AI 伺服器供應鏈連動。",
+    "reason": "NVIDIA 為全球 AI 晶片龍頭，連動台積電晶圆代工及廣達、緯創等 AI 伺服器代工供應鏈。",
     "first_seen": "2026-08-05",
-    "seen_count": 51,
+    "seen_count": 52,
     "status": "candidate",
-    "last_seen": "2026-10-22"
+    "last_seen": "2026-10-24"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR為台積電之美國挂牌憑證，兩者股價高度連動。",
+    "reason": "台積電 ADR 直接反映台積電現股走勢，並牽動台灣半導體設備與封測供應鏈。",
     "first_seen": "2026-08-05",
-    "seen_count": 38,
+    "seen_count": 39,
     "status": "candidate",
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   },
   "MU": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "Micron 為全球記憶體大廠，其價格走勢與DRAM市況直接連動台灣記憶體製造與模組廠。",
+    "reason": "Micron 為全球記憶體巨頭，其報價與產業動向直接連動台灣記憶體族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 43,
+    "seen_count": 44,
     "status": "candidate",
-    "last_seen": "2026-10-20"
+    "last_seen": "2026-10-24"
   },
   "AAPL": {
     "stocks": [
@@ -57,11 +57,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果為消費性電子龍頭，其供應鏈涵蓋台灣代工與光學元件大廠。",
+    "reason": "Apple 為主要消費電子品牌，連動鴻海組裝、大立光鏡頭及台積電晶片代工等蘋概股。",
     "first_seen": "2026-08-05",
-    "seen_count": 38,
+    "seen_count": 39,
     "status": "candidate",
-    "last_seen": "2026-10-22"
+    "last_seen": "2026-10-24"
   },
   "ANET": {
     "stocks": [
@@ -82,11 +82,11 @@
       "智邦 2345",
       "華星光 4979"
     ],
-    "reason": "Broadcom 為網通與 ASIC 晶片大廠，高度依賴台積電先進製程與日月光先進封裝。",
+    "reason": "Broadcom 為網通與半導體大廠，其高階晶片高度依賴台積電先進製程與台灣封測供應鏈。",
     "first_seen": "2026-08-07",
-    "seen_count": 13,
+    "seen_count": 14,
     "status": "candidate",
-    "last_seen": "2026-10-20"
+    "last_seen": "2026-10-24"
   },
   "AMD": {
     "stocks": [
@@ -100,11 +100,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD 為高效能運算與 GPU 大廠，台積電提供晶圆代工，京元電子提供測試服務。",
+    "reason": "AMD 採無廠半導體模式，其處理器主要由台積電代工並由台灣封測廠處理。",
     "first_seen": "2026-08-07",
-    "seen_count": 14,
+    "seen_count": 15,
     "status": "candidate",
-    "last_seen": "2026-10-20"
+    "last_seen": "2026-10-24"
   },
   "AMAT": {
     "stocks": [
@@ -140,11 +140,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "Tesla 為電動車龍頭，貿聯-KY與健合興供應線束及端子，和大供應傳動齒輪軸。",
+    "reason": "Tesla 為電動車龍頭，連動台灣車用線束、傳動元件及充電/電源供應鏈。",
     "first_seen": "2026-08-12",
-    "seen_count": 18,
+    "seen_count": 19,
     "status": "candidate",
-    "last_seen": "2026-10-20"
+    "last_seen": "2026-10-24"
   },
   "SMCI": {
     "stocks": [
@@ -164,11 +164,11 @@
       "麗",
       "麗臺 2465"
     ],
-    "reason": "美超微伺服器出貨動能連動台灣AI伺服器代工廠",
+    "reason": "Supermicro 為 AI 伺服器大廠，連動台灣伺服器代工與主機板合作夥伴。",
     "first_seen": "2026-08-13",
-    "seen_count": 16,
+    "seen_count": 17,
     "status": "candidate",
-    "last_seen": "2026-10-02"
+    "last_seen": "2026-10-24"
   },
   "DELL": {
     "stocks": [
@@ -210,11 +210,11 @@
       "日月光投控 3711",
       "聯發科 2454"
     ],
-    "reason": "高通為手機晶片與通訊大廠，牽動台灣IC設計與封測供應鏈",
+    "reason": "Qualcomm 為行動晶片大廠，與台灣 IC 設計及半導體封測供應鏈高度連動。",
     "first_seen": "2026-08-26",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-10-01"
+    "last_seen": "2026-10-24"
   },
   "LRCX": {
     "stocks": [
@@ -338,13 +338,15 @@
     "stocks": [
       "世芯-KY 3661",
       "創意 3443",
+      "力旺 3529",
       "台積電 2330",
+      "智原 3035",
       "聯發科 2454"
     ],
-    "reason": "安謀架構設計與擴展，連動台灣IP授權與晶圓代工夥伴",
+    "reason": "Arm 架構設計與矽智財授權，連動台灣 IC 設計服務與 IP 相關概念股。",
     "first_seen": "2026-10-02",
-    "seen_count": 2,
+    "seen_count": 3,
     "status": "candidate",
-    "last_seen": "2026-10-05"
+    "last_seen": "2026-10-24"
   }
 }
