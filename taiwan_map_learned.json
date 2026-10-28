@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達為AI晶片主要設計商，連動台灣AI伺服器代工廠",
+    "reason": "NVIDIA為主要AI晶片設計商，連動台積電晶圆代工及台灣AI伺服器代工廠",
     "first_seen": "2026-08-05",
-    "seen_count": 53,
+    "seen_count": 54,
     "status": "candidate",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-28"
   },
   "TSM": {
     "stocks": [
@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR與台股現貨具高度連動與溢價參考關係",
+    "reason": "台積電ADR直接連動台積電現股表現",
     "first_seen": "2026-08-05",
-    "seen_count": 40,
+    "seen_count": 41,
     "status": "candidate",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-28"
   },
   "MU": {
     "stocks": [
@@ -57,11 +57,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果為消費電子龍頭，連動主要蘋概股代工與零組件供應鏈",
+    "reason": "蘋果為主要消費電子品牌，連動其台灣代工與零組件供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 40,
+    "seen_count": 41,
     "status": "candidate",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-28"
   },
   "ANET": {
     "stocks": [
@@ -140,11 +140,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉為電動車龍頭，牽動台灣電動車零組件供應鏈",
+    "reason": "特斯拉為電動車龍頭，連動台灣車用零組件與充電設備供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 20,
+    "seen_count": 21,
     "status": "candidate",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-28"
   },
   "SMCI": {
     "stocks": [
