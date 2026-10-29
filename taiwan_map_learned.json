@@ -22,11 +22,11 @@
       "台積電 2330",
       "精材 3374"
     ],
-    "reason": "台積電ADR直接連動台積電現股表現",
+    "reason": "台積電ADR與台股現股具高度連動與價差 arbitrage 關係。",
     "first_seen": "2026-08-05",
-    "seen_count": 41,
+    "seen_count": 42,
     "status": "candidate",
-    "last_seen": "2026-10-28"
+    "last_seen": "2026-10-29"
   },
   "MU": {
     "stocks": [
@@ -36,11 +36,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光為全球記憶體大廠，其股價表現牽動台灣記憶體族群",
+    "reason": "美光強漲帶動記憶體族群價量表現與市場信心。",
     "first_seen": "2026-08-05",
-    "seen_count": 45,
+    "seen_count": 46,
     "status": "candidate",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-29"
   },
   "AAPL": {
     "stocks": [
