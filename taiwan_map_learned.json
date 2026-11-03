@@ -24,11 +24,11 @@
       "精材 3374",
       "聯電 2303"
     ],
-    "reason": "台積電 ADR 之漲跌直接連動台股台積電現貨及相關半導體封測與矽智財供應鏈。",
+    "reason": "台積電ADR股價下跌，直接連動台股權值股台積電走勢。",
     "first_seen": "2026-08-05",
-    "seen_count": 45,
+    "seen_count": 46,
     "status": "candidate",
-    "last_seen": "2026-11-02"
+    "last_seen": "2026-11-03"
   },
   "MU": {
     "stocks": [
