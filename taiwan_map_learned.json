@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為全球 AI 晶片龍頭，其股價波動直接牽動台灣晶圓代工與 AI 伺服器供應鏈。",
+    "reason": "NVIDIA為主要AI晶片設計商，連動台積電晶圆代工及伺服器代工供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 57,
+    "seen_count": 58,
     "status": "candidate",
-    "last_seen": "2026-11-02"
+    "last_seen": "2026-11-04"
   },
   "TSM": {
     "stocks": [
@@ -22,13 +22,14 @@
       "台積電 2330",
       "日月光投控 3711",
       "精材 3374",
+      "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR股價下跌，直接連動台股權值股台積電走勢。",
+    "reason": "台積電ADR股價變動直接連動台股台積電現貨及相關封測供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 46,
+    "seen_count": 47,
     "status": "candidate",
-    "last_seen": "2026-11-03"
+    "last_seen": "2026-11-04"
   },
   "MU": {
     "stocks": [
@@ -59,11 +60,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果為消費電子風向球，其供應鏈包含台股代工、晶片與光學鏡頭大廠。",
+    "reason": "Apple為消費電子巨頭，連動其組裝、晶片代工與光學鏡頭等主要台廠供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 44,
+    "seen_count": 45,
     "status": "candidate",
-    "last_seen": "2026-11-02"
+    "last_seen": "2026-11-04"
   },
   "ANET": {
     "stocks": [
@@ -102,11 +103,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD 採無廠半導體模式，其處理器主要由台積電代工並由台灣封測廠處理。",
+    "reason": "AMD為高效能運算晶片設計大廠，主要由台積電代工並帶動相關高速傳輸晶片廠",
     "first_seen": "2026-08-07",
-    "seen_count": 15,
+    "seen_count": 16,
     "status": "candidate",
-    "last_seen": "2026-10-24"
+    "last_seen": "2026-11-04"
   },
   "AMAT": {
     "stocks": [
