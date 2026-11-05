@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA為主要AI晶片設計商，連動台積電晶圆代工及伺服器代工供應鏈",
+    "reason": "輝達為AI晶片龍頭，其股價波動直接連動台積電等台灣AI晶片代工與伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 58,
+    "seen_count": 59,
     "status": "candidate",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "TSM": {
     "stocks": [
@@ -25,11 +25,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR股價變動直接連動台股台積電現貨及相關封測供應鏈",
+    "reason": "台積電ADR為台積電在美國掛牌之憑證，股價具高度連動性",
     "first_seen": "2026-08-05",
-    "seen_count": 47,
+    "seen_count": 48,
     "status": "candidate",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "MU": {
     "stocks": [
@@ -39,11 +39,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光為記憶體大廠，其股價表現牽動台股記憶體製造與模組廠連動。",
+    "reason": "美光為全球記憶體大廠，其股價漲跌直接影響台灣記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 47,
+    "seen_count": 48,
     "status": "candidate",
-    "last_seen": "2026-11-02"
+    "last_seen": "2026-11-05"
   },
   "AAPL": {
     "stocks": [
@@ -60,11 +60,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "Apple為消費電子巨頭，連動其組裝、晶片代工與光學鏡頭等主要台廠供應鏈",
+    "reason": "蘋果為消費電子龍頭，其供應鏈包含台灣組裝與光學鏡頭大廠",
     "first_seen": "2026-08-05",
-    "seen_count": 45,
+    "seen_count": 46,
     "status": "candidate",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "ANET": {
     "stocks": [
@@ -143,11 +143,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉為電動車龍頭，其股價變動牽動台灣車用零組件與充電樁供應鏈。",
+    "reason": "特斯拉為電動車指標，牽動台灣車用零組件與充電樁供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 24,
+    "seen_count": 25,
     "status": "candidate",
-    "last_seen": "2026-11-02"
+    "last_seen": "2026-11-05"
   },
   "SMCI": {
     "stocks": [
