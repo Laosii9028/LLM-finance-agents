@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA為AI晶片設計大廠，其股價重挫連動台灣晶圓代工與AI伺服器供應鏈",
+    "reason": "輝達為AI晶片龍頭，其股價波動直接影響台灣AI伺服器代工廠供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 60,
+    "seen_count": 61,
     "status": "candidate",
-    "last_seen": "2026-11-06"
+    "last_seen": "2026-11-07"
   },
   "TSM": {
     "stocks": [
@@ -25,11 +25,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR大跌，直接牽動台灣晶圓代工本尊及相關封測與設備供應鏈",
+    "reason": "台積電ADR強漲，直接連動台股權值股台積電走勢",
     "first_seen": "2026-08-05",
-    "seen_count": 49,
+    "seen_count": 50,
     "status": "candidate",
-    "last_seen": "2026-11-06"
+    "last_seen": "2026-11-07"
   },
   "MU": {
     "stocks": [
@@ -39,11 +39,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光為全球記憶體大廠，其股價漲跌直接影響台灣記憶體族群",
+    "reason": "美光股價強漲，連動台灣記憶體族群",
     "first_seen": "2026-08-05",
-    "seen_count": 48,
+    "seen_count": 49,
     "status": "candidate",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-07"
   },
   "AAPL": {
     "stocks": [
@@ -145,11 +145,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "Tesla為電動車領導廠，股價重挫牽動台灣車用零組件與充電樁供應鏈",
+    "reason": "特斯拉股價上漲，帶動相關電動車零組件供應鏈表現",
     "first_seen": "2026-08-12",
-    "seen_count": 26,
+    "seen_count": 27,
     "status": "candidate",
-    "last_seen": "2026-11-06"
+    "last_seen": "2026-11-07"
   },
   "SMCI": {
     "stocks": [
