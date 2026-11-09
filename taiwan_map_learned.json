@@ -9,11 +9,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "輝達為AI晶片龍頭，其股價波動直接影響台灣AI伺服器代工廠供應鏈",
+    "reason": "NVIDIA 為主要 AI 晶片設計商，連動台積電晶圆代工及下游 AI 伺服器代工廠",
     "first_seen": "2026-08-05",
-    "seen_count": 61,
+    "seen_count": 62,
     "status": "candidate",
-    "last_seen": "2026-11-07"
+    "last_seen": "2026-11-09"
   },
   "TSM": {
     "stocks": [
@@ -25,11 +25,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR強漲，直接連動台股權值王台積電走勢。",
+    "reason": "台積電 ADR 直接反映台積電現股表現",
     "first_seen": "2026-08-05",
-    "seen_count": 51,
+    "seen_count": 52,
     "status": "candidate",
-    "last_seen": "2026-11-08"
+    "last_seen": "2026-11-09"
   },
   "MU": {
     "stocks": [
@@ -60,11 +60,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "Apple為全球消費電子龍頭，其股價波動影響台灣代工與光學鏡頭供應鏈",
+    "reason": "Apple 為主要消費電子品牌，連動其代工廠與晶片供應商",
     "first_seen": "2026-08-05",
-    "seen_count": 47,
+    "seen_count": 48,
     "status": "candidate",
-    "last_seen": "2026-11-06"
+    "last_seen": "2026-11-09"
   },
   "ANET": {
     "stocks": [
@@ -135,6 +135,7 @@
   },
   "TSLA": {
     "stocks": [
+      "EDA 供應鏈等",
       "etan 2317",
       "乙盛-KY 5243",
       "健合興 3003",
@@ -145,11 +146,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉股價上漲，帶動相關電動車零組件供應鏈表現",
+    "reason": "Tesla 為電動車龍頭，連動台灣車用零組件供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 27,
+    "seen_count": 28,
     "status": "candidate",
-    "last_seen": "2026-11-07"
+    "last_seen": "2026-11-09"
   },
   "SMCI": {
     "stocks": [
