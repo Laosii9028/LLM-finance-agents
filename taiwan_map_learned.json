@@ -1,6 +1,7 @@
 {
   "NVDA": {
     "stocks": [
+      "世芯-KY 3661",
       "京元電子 2449",
       "台積電 2330",
       "廣達 2382",
@@ -9,11 +10,11 @@
       "緯創 3231",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為主要 AI 晶片設計商，連動台積電晶圆代工及下游 AI 伺服器代工廠",
+    "reason": "輝達為全球AI晶片龍頭，其供應鏈與伺服器代工廠連動密切。",
     "first_seen": "2026-08-05",
-    "seen_count": 62,
+    "seen_count": 63,
     "status": "candidate",
-    "last_seen": "2026-11-09"
+    "last_seen": "2026-11-10"
   },
   "TSM": {
     "stocks": [
@@ -25,11 +26,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電 ADR 直接反映台積電現股表現",
+    "reason": "台積電ADR與台灣上市股票具高度連動與價差 arbitrage 關係。",
     "first_seen": "2026-08-05",
-    "seen_count": 52,
+    "seen_count": 53,
     "status": "candidate",
-    "last_seen": "2026-11-09"
+    "last_seen": "2026-11-10"
   },
   "MU": {
     "stocks": [
@@ -39,11 +40,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價強漲，連動台灣記憶體族群",
+    "reason": "美光為記憶體大廠，其股價波動直接影響台灣記憶體族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 49,
+    "seen_count": 50,
     "status": "candidate",
-    "last_seen": "2026-11-07"
+    "last_seen": "2026-11-10"
   },
   "AAPL": {
     "stocks": [
@@ -60,11 +61,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "Apple 為主要消費電子品牌，連動其代工廠與晶片供應商",
+    "reason": "蘋果為消費電子巨頭，其概念股涵蓋台灣主要蘋概股權值股。",
     "first_seen": "2026-08-05",
-    "seen_count": 48,
+    "seen_count": 49,
     "status": "candidate",
-    "last_seen": "2026-11-09"
+    "last_seen": "2026-11-10"
   },
   "ANET": {
     "stocks": [
@@ -87,11 +88,11 @@
       "緯創 3231",
       "華星光 4979"
     ],
-    "reason": "Broadcom為網通與AI晶片大廠，其股價下跌連動台灣相關伺服器及封測供應鏈",
+    "reason": "博通為網通晶片與ASIC大廠，連動台灣網通及封測供應鏈。",
     "first_seen": "2026-08-07",
-    "seen_count": 16,
+    "seen_count": 17,
     "status": "candidate",
-    "last_seen": "2026-11-06"
+    "last_seen": "2026-11-10"
   },
   "AMD": {
     "stocks": [
@@ -105,11 +106,11 @@
       "祥碩 5269",
       "緯創 3231"
     ],
-    "reason": "AMD為高效能運算晶片設計大廠，主要由台積電代工並帶動相關高速傳輸晶片廠",
+    "reason": "AMD為重要處理器大廠，相關高速傳輸及載板供應鏈連動台股廠商。",
     "first_seen": "2026-08-07",
-    "seen_count": 16,
+    "seen_count": 17,
     "status": "candidate",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-10"
   },
   "AMAT": {
     "stocks": [
@@ -146,11 +147,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "Tesla 為電動車龍頭，連動台灣車用零組件供應鏈",
+    "reason": "特斯拉為電動車龍頭，牽動台灣車用零組件供應鏈。",
     "first_seen": "2026-08-12",
-    "seen_count": 28,
+    "seen_count": 29,
     "status": "candidate",
-    "last_seen": "2026-11-09"
+    "last_seen": "2026-11-10"
   },
   "SMCI": {
     "stocks": [
