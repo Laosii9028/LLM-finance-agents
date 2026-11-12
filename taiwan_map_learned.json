@@ -8,17 +8,18 @@
       "奇鋐 3017",
       "廣達 2382",
       "技嘉 2376",
+      "技王 2376",
       "日月光投控 3711",
       "欣興 3037",
       "緯創 3231",
       "雙鴻 3324",
       "鴻海 2317"
     ],
-    "reason": "AI晶片晶圓代工、封測、測試及AI伺服器/散熱供應鏈",
+    "reason": "輝達概念股及AI伺服器與散熱供應鏈連動。",
     "first_seen": "2026-08-05",
-    "seen_count": 64,
+    "seen_count": 65,
     "status": "candidate",
-    "last_seen": "2026-11-11"
+    "last_seen": "2026-11-12"
   },
   "TSM": {
     "stocks": [
@@ -30,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "美股ADR與台股現貨連動",
+    "reason": "台積電ADR強漲，直接連動台股權值王台積電走勢。",
     "first_seen": "2026-08-05",
-    "seen_count": 54,
+    "seen_count": 55,
     "status": "candidate",
-    "last_seen": "2026-11-11"
+    "last_seen": "2026-11-12"
   },
   "MU": {
     "stocks": [
@@ -45,11 +46,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "記憶體模組廠商採購美光NAND/DRAM",
+    "reason": "美光(Micron)強漲，帶動台灣記憶體與DRAM族群連動。",
     "first_seen": "2026-08-05",
-    "seen_count": 51,
+    "seen_count": 52,
     "status": "candidate",
-    "last_seen": "2026-11-11"
+    "last_seen": "2026-11-12"
   },
   "AAPL": {
     "stocks": [
@@ -70,11 +71,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "晶片代工、產品組裝、鏡頭模組及PCB/封測供應鏈",
+    "reason": "蘋果股價變動牽動台股主要蘋概股表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 50,
+    "seen_count": 51,
     "status": "candidate",
-    "last_seen": "2026-11-11"
+    "last_seen": "2026-11-12"
   },
   "ANET": {
     "stocks": [
@@ -161,11 +162,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "電動車充電、線束、傳動元件及電池材料供應鏈",
+    "reason": "特斯拉股價上漲，帶動台灣電動車及相關零組件供應鏈。",
     "first_seen": "2026-08-12",
-    "seen_count": 30,
+    "seen_count": 31,
     "status": "candidate",
-    "last_seen": "2026-11-11"
+    "last_seen": "2026-11-12"
   },
   "SMCI": {
     "stocks": [
