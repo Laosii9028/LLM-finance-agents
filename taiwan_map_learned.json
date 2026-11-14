@@ -15,11 +15,11 @@
       "雙鴻 3324",
       "鴻海 2317"
     ],
-    "reason": "輝達概念股及AI伺服器與散熱供應鏈連動。",
+    "reason": "NVIDIA 為全球 AI 晶片領導者，連動台灣晶圆代工與 AI 伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 65,
+    "seen_count": 66,
     "status": "candidate",
-    "last_seen": "2026-11-12"
+    "last_seen": "2026-11-14"
   },
   "TSM": {
     "stocks": [
@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR與台股現股直接連動",
+    "reason": "台積電 ADR 價格變動直接連動台股台積電及相關半導體供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 56,
+    "seen_count": 57,
     "status": "candidate",
-    "last_seen": "2026-11-13"
+    "last_seen": "2026-11-14"
   },
   "MU": {
     "stocks": [
@@ -71,11 +71,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果股價變動牽動台股主要蘋概股表現。",
+    "reason": "蘋果為全球消費電子巨頭，連動代工、光學及晶片等概念股",
     "first_seen": "2026-08-05",
-    "seen_count": 51,
+    "seen_count": 52,
     "status": "candidate",
-    "last_seen": "2026-11-12"
+    "last_seen": "2026-11-14"
   },
   "ANET": {
     "stocks": [
@@ -121,11 +121,11 @@
       "華碩 2357",
       "鴻海 2317"
     ],
-    "reason": "CPU/GPU晶圓代工、封測、測試及PC/伺服器供應鏈",
+    "reason": "AMD 為高效能運算與處理器大廠，其供應鏈涵蓋台積電及載板與伺服器廠",
     "first_seen": "2026-08-07",
-    "seen_count": 18,
+    "seen_count": 19,
     "status": "candidate",
-    "last_seen": "2026-11-11"
+    "last_seen": "2026-11-14"
   },
   "AMAT": {
     "stocks": [
@@ -162,11 +162,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉股價上漲，帶動台灣電動車及相關零組件供應鏈。",
+    "reason": "特斯拉為電動車龍頭，連動台灣車用零組件與充電樁供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 31,
+    "seen_count": 32,
     "status": "candidate",
-    "last_seen": "2026-11-12"
+    "last_seen": "2026-11-14"
   },
   "SMCI": {
     "stocks": [
