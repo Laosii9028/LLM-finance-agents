@@ -15,11 +15,11 @@
       "雙鴻 3324",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為全球 AI 晶片領導者，連動台灣晶圆代工與 AI 伺服器供應鏈",
+    "reason": "NVIDIA 為主要AI晶片設計大廠，連動台積電晶圆代工及下游AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 66,
+    "seen_count": 67,
     "status": "candidate",
-    "last_seen": "2026-11-14"
+    "last_seen": "2026-11-16"
   },
   "TSM": {
     "stocks": [
@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電 ADR 價格變動直接連動台股台積電及相關半導體供應鏈",
+    "reason": "TSM ADR 為台積電美國掛牌憑證，直接對應台積電股價表現",
     "first_seen": "2026-08-05",
-    "seen_count": 57,
+    "seen_count": 58,
     "status": "candidate",
-    "last_seen": "2026-11-14"
+    "last_seen": "2026-11-16"
   },
   "MU": {
     "stocks": [
@@ -71,11 +71,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果為全球消費電子巨頭，連動代工、光學及晶片等概念股",
+    "reason": "Apple 為全球消費電子巨頭，連動其組裝、鏡頭與晶片代工等主要供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 52,
+    "seen_count": 53,
     "status": "candidate",
-    "last_seen": "2026-11-14"
+    "last_seen": "2026-11-16"
   },
   "ANET": {
     "stocks": [
@@ -151,6 +151,7 @@
   },
   "TSLA": {
     "stocks": [
+      "EDA 2317",
       "EDA 供應鏈等",
       "etan 2317",
       "乙盛-KY 5243",
@@ -162,11 +163,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉為電動車龍頭，連動台灣車用零組件與充電樁供應鏈",
+    "reason": "Tesla 為電動車龍頭，連動相關車用零組件與電氣配線供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 32,
+    "seen_count": 33,
     "status": "candidate",
-    "last_seen": "2026-11-14"
+    "last_seen": "2026-11-16"
   },
   "SMCI": {
     "stocks": [
