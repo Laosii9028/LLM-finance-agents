@@ -15,11 +15,11 @@
       "雙鴻 3324",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為主要AI晶片設計大廠，連動台積電晶圆代工及下游AI伺服器供應鏈",
+    "reason": "NVIDIA為主要AI晶片設計大廠，連動台灣晶圓代工與AI伺服器供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 67,
+    "seen_count": 68,
     "status": "candidate",
-    "last_seen": "2026-11-16"
+    "last_seen": "2026-11-17"
   },
   "TSM": {
     "stocks": [
@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "TSM ADR 為台積電美國掛牌憑證，直接對應台積電股價表現",
+    "reason": "台積電ADR重挫直接連動台灣權值股台積電表現",
     "first_seen": "2026-08-05",
-    "seen_count": 58,
+    "seen_count": 59,
     "status": "candidate",
-    "last_seen": "2026-11-16"
+    "last_seen": "2026-11-17"
   },
   "MU": {
     "stocks": [
@@ -71,11 +71,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "Apple 為全球消費電子巨頭，連動其組裝、鏡頭與晶片代工等主要供應鏈",
+    "reason": "Apple為全球消費電子龍頭，連動台灣蘋概股供應鏈",
     "first_seen": "2026-08-05",
-    "seen_count": 53,
+    "seen_count": 54,
     "status": "candidate",
-    "last_seen": "2026-11-16"
+    "last_seen": "2026-11-17"
   },
   "ANET": {
     "stocks": [
