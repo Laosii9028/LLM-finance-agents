@@ -17,9 +17,9 @@
     ],
     "reason": "輝達為AI晶片主要設計商，其供應鏈包含台灣AI伺服器代工廠",
     "first_seen": "2026-08-05",
-    "seen_count": 69,
+    "seen_count": 70,
     "status": "candidate",
-    "last_seen": "2026-11-19"
+    "last_seen": "2026-11-20"
   },
   "TSM": {
     "stocks": [
@@ -33,9 +33,9 @@
     ],
     "reason": "台積電ADR與台股現股具高度連動與套利關係",
     "first_seen": "2026-08-05",
-    "seen_count": 61,
+    "seen_count": 62,
     "status": "candidate",
-    "last_seen": "2026-11-19"
+    "last_seen": "2026-11-20"
   },
   "MU": {
     "stocks": [
@@ -73,9 +73,9 @@
     ],
     "reason": "蘋果為主要消費電子品牌，供應鏈涵蓋台積電、代工與光學元件廠",
     "first_seen": "2026-08-05",
-    "seen_count": 55,
+    "seen_count": 56,
     "status": "candidate",
-    "last_seen": "2026-11-19"
+    "last_seen": "2026-11-20"
   },
   "ANET": {
     "stocks": [
@@ -166,9 +166,9 @@
     ],
     "reason": "特斯拉為電動車龍頭，牽動台灣相關車用零組件供應鏈",
     "first_seen": "2026-08-12",
-    "seen_count": 34,
+    "seen_count": 35,
     "status": "candidate",
-    "last_seen": "2026-11-19"
+    "last_seen": "2026-11-20"
   },
   "SMCI": {
     "stocks": [
