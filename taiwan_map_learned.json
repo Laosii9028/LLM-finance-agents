@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR與台股現股具高度連動與套利關係",
+    "reason": "台積電ADR大跌連動台股現股走勢",
     "first_seen": "2026-08-05",
-    "seen_count": 62,
+    "seen_count": 63,
     "status": "candidate",
-    "last_seen": "2026-11-20"
+    "last_seen": "2026-11-21"
   },
   "MU": {
     "stocks": [
