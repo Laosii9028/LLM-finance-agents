@@ -15,11 +15,11 @@
       "雙鴻 3324",
       "鴻海 2317"
     ],
-    "reason": "輝達為AI晶片主要設計商，其供應鏈包含台灣AI伺服器代工廠",
+    "reason": "NVIDIA股價單日重挫，牽動台灣AI伺服器代工與供應鏈概念股。",
     "first_seen": "2026-08-05",
-    "seen_count": 70,
+    "seen_count": 71,
     "status": "candidate",
-    "last_seen": "2026-11-20"
+    "last_seen": "2026-11-23"
   },
   "TSM": {
     "stocks": [
@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR大跌連動台股現股走勢",
+    "reason": "台積電ADR股價重挫，直接連動台股權值王台積電表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 63,
+    "seen_count": 64,
     "status": "candidate",
-    "last_seen": "2026-11-21"
+    "last_seen": "2026-11-23"
   },
   "MU": {
     "stocks": [
@@ -46,11 +46,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光(Micron)強漲，帶動台灣記憶體與DRAM族群連動。",
+    "reason": "美光股價大跌，連動台股記憶體族群表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 52,
+    "seen_count": 53,
     "status": "candidate",
-    "last_seen": "2026-11-12"
+    "last_seen": "2026-11-23"
   },
   "AAPL": {
     "stocks": [
@@ -159,16 +159,17 @@
       "健合興 3003",
       "台達電 2308",
       "和大 1536",
+      "常珵 8097",
       "康普 4739",
       "美琪瑪 4721",
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉為電動車龍頭，牽動台灣相關車用零組件供應鏈",
+    "reason": "特斯拉股價重挫，連動台灣電動車相關供應鏈。",
     "first_seen": "2026-08-12",
-    "seen_count": 35,
+    "seen_count": 36,
     "status": "candidate",
-    "last_seen": "2026-11-20"
+    "last_seen": "2026-11-23"
   },
   "SMCI": {
     "stocks": [
@@ -219,11 +220,11 @@
       "帆宣 6196",
       "艾斯摩爾相關台股供應鏈"
     ],
-    "reason": "半導體設備主要客戶",
+    "reason": "ASML股價下跌，影響台灣半導體設備及備品供應鏈。",
     "first_seen": "2026-08-17",
-    "seen_count": 3,
+    "seen_count": 4,
     "status": "candidate",
-    "last_seen": "2026-11-11"
+    "last_seen": "2026-11-23"
   },
   "AMKR": {
     "stocks": [
