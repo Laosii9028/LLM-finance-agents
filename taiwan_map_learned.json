@@ -15,11 +15,11 @@
       "雙鴻 3324",
       "鴻海 2317"
     ],
-    "reason": "輝達單日強漲，帶動台灣AI晶片代工與伺服器供應鏈",
+    "reason": "NVIDIA 為 AI 晶片龍頭，其晶片代工與 AI 伺服器供應鏈高度連動台積電及主要代工廠。",
     "first_seen": "2026-08-05",
-    "seen_count": 72,
+    "seen_count": 73,
     "status": "candidate",
-    "last_seen": "2026-11-24"
+    "last_seen": "2026-11-25"
   },
   "TSM": {
     "stocks": [
@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電ADR強漲，直接連動台股權值股台積電表現",
+    "reason": "台積電 ADR 走勢直接反映台積電現股及其半導體供應鏈表現。",
     "first_seen": "2026-08-05",
-    "seen_count": 65,
+    "seen_count": 66,
     "status": "candidate",
-    "last_seen": "2026-11-24"
+    "last_seen": "2026-11-25"
   },
   "MU": {
     "stocks": [
@@ -46,11 +46,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光股價大漲，帶動台灣記憶體族群連動",
+    "reason": "美光為記憶體大廠，其股價波動直接牽動台股記憶體與模組族群。",
     "first_seen": "2026-08-05",
-    "seen_count": 54,
+    "seen_count": 55,
     "status": "candidate",
-    "last_seen": "2026-11-24"
+    "last_seen": "2026-11-25"
   },
   "AAPL": {
     "stocks": [
@@ -71,11 +71,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果概念股為台股重要權值與電子族群核心",
+    "reason": "Apple 供應鏈包含晶片代工、組裝及光學鏡頭等重要台廠。",
     "first_seen": "2026-08-05",
-    "seen_count": 57,
+    "seen_count": 58,
     "status": "candidate",
-    "last_seen": "2026-11-24"
+    "last_seen": "2026-11-25"
   },
   "ANET": {
     "stocks": [
