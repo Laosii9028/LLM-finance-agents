@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "台積電 ADR 走勢直接反映台積電現股及其半導體供應鏈表現。",
+    "reason": "台積電ADR股價下跌，直接連動台股權值股台積電走勢。",
     "first_seen": "2026-08-05",
-    "seen_count": 66,
+    "seen_count": 67,
     "status": "candidate",
-    "last_seen": "2026-11-25"
+    "last_seen": "2026-11-26"
   },
   "MU": {
     "stocks": [
