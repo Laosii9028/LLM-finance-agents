@@ -15,11 +15,11 @@
       "雙鴻 3324",
       "鴻海 2317"
     ],
-    "reason": "NVIDIA 為 AI 晶片設計龍頭，連動其代工與伺服器供應鏈",
+    "reason": "輝達概念股與AI伺服器代工廠連動",
     "first_seen": "2026-08-05",
-    "seen_count": 74,
+    "seen_count": 75,
     "status": "candidate",
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "TSM": {
     "stocks": [
@@ -31,11 +31,11 @@
       "精測 6510",
       "聯電 2303"
     ],
-    "reason": "TSM ADR 直接對應台積電及其相關矽智財與封測代工夥伴",
+    "reason": "台積電ADR上漲，連動台股權值王台積電表現",
     "first_seen": "2026-08-05",
-    "seen_count": 68,
+    "seen_count": 69,
     "status": "candidate",
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "MU": {
     "stocks": [
@@ -46,11 +46,11 @@
       "群聯 8299",
       "華邦電 2344"
     ],
-    "reason": "美光為記憶體大廠，與台灣記憶體產業高度連動",
+    "reason": "美光強漲帶動記憶體族群比價效應",
     "first_seen": "2026-08-05",
-    "seen_count": 56,
+    "seen_count": 57,
     "status": "candidate",
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "AAPL": {
     "stocks": [
@@ -71,11 +71,11 @@
       "鴻海 2317",
       "鴻準 2354"
     ],
-    "reason": "蘋果概念股涵蓋組裝、鏡頭與晶圓代工",
+    "reason": "蘋果概念股連動蘋概三王及相關零組件",
     "first_seen": "2026-08-05",
-    "seen_count": 59,
+    "seen_count": 60,
     "status": "candidate",
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "ANET": {
     "stocks": [
@@ -153,6 +153,7 @@
     "stocks": [
       "EDA 2317",
       "EDA 供應鏈等",
+      "EDA大廠等車用概念股",
       "EDA廠或車用零組件相關",
       "etan 2317",
       "乙盛-KY 5243",
@@ -165,11 +166,11 @@
       "裕日車 2227",
       "貿聯-KY 3665"
     ],
-    "reason": "特斯拉供應鏈包含車用線束、電源與傳動系統零件",
+    "reason": "特斯拉大漲帶動相關供應鏈與車用零組件表現",
     "first_seen": "2026-08-12",
-    "seen_count": 38,
+    "seen_count": 39,
     "status": "candidate",
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "SMCI": {
     "stocks": [
